@@ -100,8 +100,8 @@
       </header><!-- /header -->
 
       <div class="content">
-         <div style="margin-top:70px;" class="text-scroll">
-            <h1>WELCOME TO HASH INCLUDE.</h1>
+         <div style="margin-top:60px;" class="text-scroll">
+            <h1 style="font-size:-10px">WELCOME TO HASH INCLUDE.</h1>
             <h1>WE ARE DEVELOPERS.</h1>
             <h1>WE ARE DESIGNERS.</h1>
             <h1>WE ARE SOCIALITES.</h1>
