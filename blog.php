@@ -91,11 +91,11 @@
                      <nav id="mainnav" class="mainnav">
                         <ul class="menu">
                            <li><a href="index.php">Home</a>
-                           <li><a class="active" href="#">About Us</a>
+                           <li><a href="about.php">About Us</a>
                            <li><a href="services.php">Services</a></li>
                            <li><a href="portfolio.php">Our Work</a></li>
                            <li><a href="contact.php">Contact</a></li>
-                           <li><a href="blog.php">Blog</a></li>
+                           <li><a active href="#">Blog</a></li>
                         </ul><!-- /.menu -->
                      </nav>
                   </div><!-- /.span10 -->
@@ -287,7 +287,7 @@
                            </div>
                         </div>
                      </a>
-                     <a class="iconwrap" href="#">
+                     <a class="iconwrap" href="https://www.facebook.com/HashInc16/?fref=ts">
                         <div class="icon">
                            <div class="iconbg">
                               <i class="icons-facebook"></i>

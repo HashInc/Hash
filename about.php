@@ -292,7 +292,7 @@
                            </div>
                         </div>
                      </a>
-                     <a class="iconwrap" href="#">
+                     <a class="iconwrap" href="https://www.facebook.com/HashInc16/?fref=ts">
                         <div class="icon">
                            <div class="iconbg">
                               <i class="icons-facebook"></i>
