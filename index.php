@@ -77,7 +77,7 @@
                   <div class="span2">
                      <div id="logo" class="logo">
                         <a href="./" rel="home">
-                           <img src="images/logo.png" alt="Hashinc" style="height:60px;width:200px;" />
+                           <img src="images/logo.png" alt="Hashinc" />
                         </a>
                      </div><!-- /.logo -->
                   </div><!-- /.span2 -->
@@ -100,12 +100,11 @@
       </header><!-- /header -->
 
       <div class="content">
-         <h2 class="sub-title">Why do something you don’t like?</h2>
-         <div class="text-scroll">
+         <div style="margin-top:70px;" class="text-scroll">
             <h1>WELCOME TO HASH INCLUDE.</h1>
             <h1>WE ARE DEVELOPERS.</h1>
             <h1>WE ARE DESIGNERS.</h1>
-            <h1>WE ARE SOCIALITES..</h1>
+            <h1>WE ARE SOCIALITES.</h1>
             <h1>WE DO COMPUTATIONS.</h1>
          </div>
          <ul class="ideas inline">
