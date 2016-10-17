@@ -46,7 +46,7 @@
    <link href="icon/apple-touch-icon-114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114">
    <link href="icon/apple-touch-icon-72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72">
    <link href="icon/apple-touch-icon-57-precomposed.png" rel="apple-touch-icon-precomposed">
-   <link href="icon/favicon.png" rel="shortcut icon">
+   <link href="icon/favicon.jpg" rel="shortcut icon">
 </head>
 
 <body>
