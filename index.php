@@ -77,7 +77,7 @@
                   <div class="span2">
                      <div id="logo" class="logo">
                         <a href="./" rel="home">
-                           <img src="images/logo.png" alt="Hashinc" />
+                           <img src="images/logo.png" alt="Hashinc" style="height:60px;width:200px;" />
                         </a>
                      </div><!-- /.logo -->
                   </div><!-- /.span2 -->
