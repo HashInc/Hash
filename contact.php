@@ -147,7 +147,7 @@
       ?>
          <div class="row">
             <div class="span6 Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0" data-animation-offset="75%">
-               <form class="contact-form" method="post" action="contact.php#success">
+               <form class="contact-form" method="post" action="con.php">
                   <div id="success" class="note"></div>
                   <div class="input-wrap name">
                      <input type="text" value="" tabindex="1" placeholder="Name" name="name" id="name">
