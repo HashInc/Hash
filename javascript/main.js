@@ -136,7 +136,7 @@
 
    var responsiveTexts = function() {
       if ( $().fitText ){
-         $(".text-scroll h1").fitText(1.6, { minFontSize: '10px', maxFontSize: '80px' });
+         $(".text-scroll h1").fitText(1.7, { minFontSize: '10px', maxFontSize: '80px' });
       }
    };
 

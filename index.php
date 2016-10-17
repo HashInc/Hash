@@ -105,7 +105,7 @@
             <h1>WE ARE DEVELOPERS.</h1>
             <h1>WE ARE DESIGNERS.</h1>
             <h1>WE ARE SOCIALITES.</h1>
-            <h1>WE DO COMPUTATIONS.</h1>
+            <h1>WE ARE MARKETING.</h1>
          </div>
          <ul class="ideas inline">
             <li>One Organization</li>
