@@ -1660,7 +1660,7 @@ input:focus:invalid:focus, textarea:focus:invalid:focus, select:focus:invalid:fo
 }
 
 #subscribe-form .notification_error {
-   background-color: #ec3232;
+   background-color: #279207;
 }
 
 .information {
@@ -2143,7 +2143,7 @@ input:focus:invalid:focus, textarea:focus:invalid:focus, select:focus:invalid:fo
 .switcher-container .styleswitch#color1 { background-color: #0fd8da; }
 .switcher-container .styleswitch#color2 { background-color: #4172ff; }
 .switcher-container .styleswitch#color3 { background-color: #e742ff; }
-.switcher-container .styleswitch#color4 { background-color: #ec3232; }
+.switcher-container .styleswitch#color4 { background-color: #279207; }
 .switcher-container .styleswitch#color5 { background-color: #48e224; }
 
 /* Media Queries

@@ -142,10 +142,10 @@ h3.title,
 }
 
 .progress-animate {
-  background: -webkit-linear-gradient(#eb9f9f, #279207);
-  background: -o-linear-gradient(#eb9f9f, #279207);
-  background: -moz-linear-gradient(#eb9f9f, #279207);
-  background: linear-gradient(#eb9f9f, #279207);
+  background: -webkit-linear-gradient(#279207, #279207);
+  background: -o-linear-gradient(#279207, #279207);
+  background: -moz-linear-gradient(#279207, #279207);
+  background: linear-gradient(#279207, #279207);
 }
 
 .comment-respond .btn-Hashinc,
@@ -208,10 +208,10 @@ hr.color {
   border-top: 1px solid #279207;
 }
 
-::-webkit-input-placeholder { color: #7c2e2e !important; }
-::-moz-placeholder { color: #7c2e2e !important; } /* firefox 19+ */
-:-ms-input-placeholder { color: #7c2e2e !important; } /* ie */
-input:-moz-placeholder { color: #7c2e2e !important; }
+::-webkit-input-placeholder { color: #279207 !important; }
+::-moz-placeholder { color: #279207 !important; } /* firefox 19+ */
+:-ms-input-placeholder { color: #279207 !important; } /* ie */
+input:-moz-placeholder { color: #279207 !important; }
 
 .comment-respond input::-webkit-input-placeholder,
 .comment-respond textarea::-webkit-input-placeholder {
