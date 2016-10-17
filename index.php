@@ -32,7 +32,7 @@
    <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
 
    <!-- Colors -->
-   <link rel="stylesheet" type="text/css" href="stylesheets/colors/color1.css" id="colors">
+   <link rel="stylesheet" type="text/css" href="stylesheets/colors/color4.css" id="colors">
    
    <!-- Animation Style -->
    <link rel="stylesheet" type="text/css" href="stylesheets/animate.css">

@@ -13,7 +13,7 @@
 .iconbox p,
 .testimonial-info .pos,
 .toggle .toggle-content {
-  color: #7c2e2e;
+  color: #279207;
 }
 
 a,
@@ -84,7 +84,7 @@ h3.title,
 .iconwrap:hover .icon .iconbg,
 .socials-list.big-size .iconwrap:hover .icon .iconbg,
 .iconbox.v2:hover .icon .iconbg {
-  color: #ec3232;
+  color: #279207;
 }
 
 .bg-color,
@@ -113,7 +113,7 @@ h3.title,
 .iconwrap .icon .iconbg,
 .socials-list.big-size .iconwrap .icon .iconbg,
 .flexslider .flex-control-nav li a.flex-active {
-  background-color: #ec3232;
+  background-color: #279207;
 }
 
 .iconbox .icon-bg,
@@ -125,40 +125,40 @@ h3.title,
 .flexslider .flex-direction-nav a:before,
 .iconbox .icon,
 .iconwrap .icon {
-   -webkit-box-shadow: inset 0 0 0 2px #ec3232;
-      -moz-box-shadow: inset 0 0 0 2px #ec3232;
-        -o-box-shadow: inset 0 0 0 2px #ec3232;
-           box-shadow: inset 0 0 0 2px #ec3232;
+   -webkit-box-shadow: inset 0 0 0 2px #279207;
+      -moz-box-shadow: inset 0 0 0 2px #279207;
+        -o-box-shadow: inset 0 0 0 2px #279207;
+           box-shadow: inset 0 0 0 2px #279207;
 }
 
 .team .photo .overlays img,
 .socials-list.big-size ul li,
 .countdown .numb,
 .socials-list.big-size .iconwrap .icon {
-   -webkit-box-shadow: inset 0 0 0 3px #ec3232;
-      -moz-box-shadow: inset 0 0 0 3px #ec3232;
-        -o-box-shadow: inset 0 0 0 3px #ec3232;
-           box-shadow: inset 0 0 0 3px #ec3232;
+   -webkit-box-shadow: inset 0 0 0 3px #279207;
+      -moz-box-shadow: inset 0 0 0 3px #279207;
+        -o-box-shadow: inset 0 0 0 3px #279207;
+           box-shadow: inset 0 0 0 3px #279207;
 }
 
 .progress-animate {
-  background: -webkit-linear-gradient(#eb9f9f, #ec3232);
-  background: -o-linear-gradient(#eb9f9f, #ec3232);
-  background: -moz-linear-gradient(#eb9f9f, #ec3232);
-  background: linear-gradient(#eb9f9f, #ec3232);
+  background: -webkit-linear-gradient(#eb9f9f, #279207);
+  background: -o-linear-gradient(#eb9f9f, #279207);
+  background: -moz-linear-gradient(#eb9f9f, #279207);
+  background: linear-gradient(#eb9f9f, #279207);
 }
 
 .comment-respond .btn-Hashinc,
 .contact-form .btn-Hashinc {
-   border-color: #ec3232;
+   border-color: #279207;
 }
 
 hr.color {
-   border-top-color: #ec3232;
+   border-top-color: #279207;
 }
 
 .widget ul li {
-  border-top: 1px solid #ec3232;
+  border-top: 1px solid #279207;
 }
 
 .blog-posts .pagination ul li a,
@@ -188,24 +188,24 @@ hr.color {
 .testimonials2 .text blockquote,
 .testimonials2 .flexslider .flex-control-nav li a,
 .flexslider .flex-control-nav li a {
-  border: 2px solid #ec3232;
+  border: 2px solid #279207;
 }
 
 .testimonials2 .text blockquote:before {
-   border-color: transparent #ec3232 transparent transparent;
+   border-color: transparent #279207 transparent transparent;
 }
 
 .author-post .avatar,
 .widget-search #s {
-  border: 3px solid #ec3232;
+  border: 3px solid #279207;
 }
 
 .project-info ul li {
-  border-bottom: 1px solid #ec3232;
+  border-bottom: 1px solid #279207;
 }
 
 .project-info ul li:first-child {
-  border-top: 1px solid #ec3232;
+  border-top: 1px solid #279207;
 }
 
 ::-webkit-input-placeholder { color: #7c2e2e !important; }
@@ -215,12 +215,12 @@ input:-moz-placeholder { color: #7c2e2e !important; }
 
 .comment-respond input::-webkit-input-placeholder,
 .comment-respond textarea::-webkit-input-placeholder {
-  color: #ec3232 !important;
+  color: #279207 !important;
 }
 
 .comment-respond input::-moz-placeholder,
 .comment-respond textarea::-moz-placeholder {
-  color: #ec3232 !important;
+  color: #279207 !important;
 }
 
 #top-slider .arrow_bg {
@@ -276,10 +276,10 @@ input:-moz-placeholder { color: #7c2e2e !important; }
 
 @media only screen and (max-width: 979px) {
    .team .photo .overlays img {
-      -webkit-box-shadow: inset 0 0 0 2px #ec3232;
-         -moz-box-shadow: inset 0 0 0 2px #ec3232;
-           -o-box-shadow: inset 0 0 0 2px #ec3232;
-              box-shadow: inset 0 0 0 2px #ec3232;
+      -webkit-box-shadow: inset 0 0 0 2px #279207;
+         -moz-box-shadow: inset 0 0 0 2px #279207;
+           -o-box-shadow: inset 0 0 0 2px #279207;
+              box-shadow: inset 0 0 0 2px #279207;
    }
 
    .team:hover .photo .overlays:before {

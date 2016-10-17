@@ -162,7 +162,7 @@
                      <textarea class="" tabindex="3" placeholder="Message" name="message" id="message"></textarea>
                   </div>
                   <div class="submit-wrap">
-                     <input type="submit" name="submi" class="btn-Hashinc black">
+                     <input type="submit" name="submit" class="btn-Hashinc black">
                   </div>
                </form><!-- /.comment-form -->
             </div><!-- /.span6 -->
