@@ -76,7 +76,7 @@
                <div class="row">
                   <div class="span2">
                      <div id="logo" class="logo">
-                        <a href="./" rel="home">
+                        <a href="http://www.hashinc.in" rel="home">
                            <img src="images/logo.png" alt="Hashinc" />
                         </a>
                      </div><!-- /.logo -->
