@@ -523,7 +523,6 @@
    <script type="text/javascript" src="javascript/jquery.fittext.js"></script>
    <script type="text/javascript" src="javascript/smoothscroll.js"></script>
    <script type="text/javascript" src="javascript/jquery.cookie.js"></script>
-   <script type="text/javascript" src="javascript/switcher.js"></script>
    <script type="text/javascript" src="javascript/main.js"></script>
    <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
 	<script>
