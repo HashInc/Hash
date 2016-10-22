@@ -25,10 +25,6 @@
    <link rel="stylesheet" type="text/css" href="stylesheets/animate.css">
    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,700' rel='stylesheet' type='text/css'>
    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'>
-   <link href="icon/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144">
-   <link href="icon/apple-touch-icon-114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114">
-   <link href="icon/apple-touch-icon-72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72">
-   <link href="icon/apple-touch-icon-57-precomposed.png" rel="apple-touch-icon-precomposed">
    <link href="icon/favicon.png" rel="shortcut icon">
 </head>
 <body>
@@ -90,8 +86,6 @@
          </div>
       </div>
    </section>
-
-   <!-- Form -->
    <section class="section entry-post" style="background-color: #10101d">
       <div class="container" style="margin-bottom:-550px;">
          <div class="row">
