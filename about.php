@@ -63,7 +63,6 @@
          <div class="row">
             <div class="span8">
                <ul class="contact-info inline pull-left">
-                  <li class="phone"><a href="#">+91 917 6156 512</a></li>
                   <li class="email"><a href="#">hashinc16@gmail.com</a></li>
                </ul>
             </div><!-- /.span8 -->
@@ -113,9 +112,8 @@
 			   </div><!-- /.span6 -->
 			   <div class="span6 breadcrumbs">
 					<ul>
-					<li><a href="#">Home /</a></li>
-					<li><a href="#">About /</a></li>
-					<li>Dark version</li>
+					<li><a href="#">Home </a>/</li>
+					<li><a href="#">About </a>/</li>
 					</ul>
 			   </div><!-- /.span6 -->
          </div><!-- /.page-title-wrapper -->

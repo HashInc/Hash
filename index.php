@@ -57,7 +57,6 @@
          <div class="row">
             <div class="span8">
                <ul class="contact-info inline pull-left">
-                  <li class="phone"><a href="#">+91 917 6156 512</a></li>
                   <li class="email"><a href="#">hashinc16@gmail.com</a></li>
                   
                </ul>
