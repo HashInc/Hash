@@ -226,14 +226,14 @@
       </div><!-- /.container -->
    </section>
 
-   <!-- Socials -->
+ <!-- Socials -->
    <section class="section social-section" style="padding: 50px 0; background: #d9dff2">
       <div class="container">
          <div class="row">
             <div class="span12">
-               <div class="socials-list Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0" data-animation-offset="75%">
+               <div class="socials-list Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0.5s" data-animation-offset="90%">
                   <div class="follow-us">
-                     <h3>Follow Us</h3>
+                     <center><h2><strong>Follow Us</strong></h2></center>
                   </div>
                   <div class="social-icons">
                      <a class="iconwrap" href="#">
@@ -250,27 +250,7 @@
                            </div>
                         </div>
                      </a>
-                     <a class="iconwrap" href="#">
-                        <div class="icon">
-                           <div class="iconbg">
-                              <i class="icons-dribbble"></i>
-                           </div>
-                        </div>
-                     </a>
-                     <a class="iconwrap" href="#">
-                        <div class="icon">
-                           <div class="iconbg">
-                              <i class="icons-behance"></i>
-                           </div>
-                        </div>
-                     </a>
-                     <a class="iconwrap" href="#">
-                        <div class="icon">
-                           <div class="iconbg">
-                              <i class="icons-pinterest"></i>
-                           </div>
-                        </div>
-                     </a>
+                     
                      <a class="iconwrap" href="#">
                         <div class="icon">
                            <div class="iconbg">
@@ -278,92 +258,15 @@
                            </div>
                         </div>
                      </a>
-                     <a class="iconwrap" href="#">
-                        <div class="icon">
-                           <div class="iconbg">
-                              <i class="icons-vimeo-square"></i>
-                           </div>
-                        </div>
-                     </a>
-                  </div>
+                     </div>
                </div><!-- /.socials-list -->
             </div><!-- /.span12 -->
          </div><!-- /.row -->
       </div><!-- /.container -->
    </section>
 
-   <!-- Footer -->
-   <footer class="footer">
-      <div class="container">
-         <div class="row">
-            <div class="span3">
-               <div class="widget widget-brand">
-                  <div class="logo">
-                     <a href="./"><img src="images/logo.png" alt="Hashinc" /></a>
-                  </div>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non turpis auctor, rutrum lacus ultrices, venenatis odio. Cras elementum elit eu ante interdum cursus. Curabitur a risus ornare, volutpat diam at, suscipit nisi. Nunc elit nunc, rhoncus eu fermentum sed.</p>
-                  <a href="#" class="btn-Hashinc border-type">READ MORE</a>
-               </div><!-- /.widget-brand -->
-            </div><!-- /.span3 -->
-            <div class="span3">
-               <div class="widget widget-recent-posts">
-                  <h5 class="widget-title">Recent Posts</h5>
-                  <ul class="unstyled">
-                     <li>
-                        <img src="images/blog/t1.jpg" alt="image">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis augue lorem.</p>
-                        <div class="meta-post">
-                           <span class="date">24 12 2014</span>
-                           <span class="author"><a href="#">by Admin</a></span>
-                        </div>
-                     </li>
-                     <li>
-                        <img src="images/blog/t2.jpg" alt="image">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis augue lorem.</p>
-                        <div class="meta-post">
-                           <span class="date">24 12 2014</span>
-                           <span class="author"><a href="#">by Admin</a></span>
-                        </div>
-                     </li>
-                  </ul>
-               </div><!-- /.widget-recent-posts -->
-            </div><!-- /.span3 -->
-            <div class="span3">
-               <div class="widget widget-tags">
-                  <h5 class="widget-title">Tags</h5>
-                  <div class="tags">
-                     <a href="#">Portfolio</a>
-                     <a href="#">Wordpress</a>
-                     <a href="#">Themeforest</a>
-                     <a href="#">HTML</a>
-                     <a href="#">Art</a>
-                     <a href="#">Creative</a>
-                     <a href="#">PSD</a>
-                  </div>
-               </div><!-- /.widget-tags -->
-            </div><!-- /.span3 -->
-            <div class="span3">
-               <div class="widget widget-newsletter">
-                  <h5 class="widget-title">Newsletter</h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non turpis auctor, rutrum lacus ultrices, venenatis odio.</p>
-                  <form method="post" action="#" id="subscribe-form" data-mailchimp="true">
-                     <div id="subscribe-content">
-                        <div class="input">
-                           <input type="text" id="subscribe-email" name="subscribe-email" placeholder="Your address e-mail">
-                        </div>
-                        <div class="button">
-                           <button type="button" id="subscribe-button" class="" title="Subscribe now"><i class="icons-angle-right"></i></button>
-                        </div>
-                     </div>
-                     <div id="subscribe-msg"></div>
-                  </form>
-               </div><!-- /.widget-newsletter -->
-            </div><!-- /.span3 -->
-         </div><!-- /.row -->
-      </div><!-- /.container -->
-   </footer>
 
-   <!-- Bottom -->
+     <!-- Bottom -->
    <div class="bottom">
       <div class="container">
          <div class="row">
