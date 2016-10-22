@@ -126,7 +126,7 @@
                <div class="titlebox Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0" data-animation-offset="75%">
                   <h2 class="subtitle text-white">Our team</h2>
                   <h1 class="maintitle text-color">WHO ARE WE?</h1>
-                  <p class="text-white">Sed velit tellus, tempus sit amet facilisis ut, vulputate at mi. Aliquam sollicitudin augue eu lectus eleifend, quis molestie ante sollicitudin. Donec scelerisque justo vitae lorem pulvinar fringilla.</p>
+                  <p class="text-white">The team which works for you always to get best services and products and ensure the quality.</p>
                </div>
                <div class="spacer"></div>
             </div><!-- /.span12 -->
@@ -139,7 +139,7 @@
                 </div>
                 <div class="info">
                   <h5 class="name">Surakshit Kumar</h5>
-                  <p class="position">Front-End Developer</p>
+                  <p class="position">Co-Founder</p>
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
@@ -157,8 +157,8 @@
                   </div>
                 </div>
                 <div class="info">
-                  <h5 class="name">Manjunath Poilath</h5>
-                  <p class="position">Back-End Developer</p>
+                  <h5 class="name">Arihant Jain</h5>
+                  <p class="position">Co-Founder</p>
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
@@ -176,8 +176,8 @@
                   </div>
                 </div>
                 <div class="info">
-                  <h5 class="name">Arihant Jain</h5>
-                  <p class="position">Designer</p>
+                  <h5 class="name">Kunal Dhariwal</h5>
+                  <p class="position">Co-Founder</p>
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
@@ -195,8 +195,8 @@
                   </div>
                 </div>
                 <div class="info">
-                  <h5 class="name">Sriramakrishna</h5>
-                  <p class="position">Webdesign</p>
+                  <h5 class="name">Manjunath Poilath</h5>
+                  <p class="position">CTO</p>
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
@@ -214,8 +214,8 @@
                   </div>
                 </div>
                 <div class="info">
-                  <h5 class="name">Kunal Dhariwal</h5>
-                  <p class="position">Webdesign</p>
+                  <h5 class="name">Sriramakrishna</h5>
+                  <p class="position">COO</p>
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
