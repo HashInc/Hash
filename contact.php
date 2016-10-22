@@ -91,7 +91,7 @@
          <div class="row">
             <div class="span12">
                <div class="titlebox">
-                  <h2 class="subtitle text-white">Contact</h2>
+                  <h2 id="success" class="subtitle text-white">Contact</h2>
                   <h1 class="maintitle text-color">DO YOU HAVE QUESTIONS?</h1>
                   <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac cursus tortor, nec accumsan metus. Sed dapibus elit semper imperdiet suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                </div>
@@ -102,25 +102,20 @@
       <div style="width: 100%; height: 300px; margin-bottom: 60px;margin-top:-150px;">
       </div><!-- /map -->
       <div class="container">
-      <?php 
-      $dbcon1=@mysql_connect("localhost","root","", true);
-      mysql_select_db('hits_obe',$dbcon1);
-      ?>
          <div class="row">
             <div class="span6 Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0" data-animation-offset="75%">
                <form class="contact-form" method="post" action="contact_db.php">
-                  <div id="success" class="note"></div>
                   <div class="input-wrap name">
                      <input type="text" value="" tabindex="1" placeholder="Name" name="name" id="name" required>
                   </div>
                   <div class="input-wrap phone">
-                     <input type="text" value="" tabindex="2" placeholder="Phone" name="phone" id="name">
+                     <input type="text" value="" tabindex="1" placeholder="Phone" name="phone" id="name" required>
                   </div>
                    <div class="input-wrap email">
-                     <input type="email" value="" tabindex="2" placeholder="E-mail" name="email" id="email" required>
+                     <input type="email" value="" tabindex="1" placeholder="E-mail" name="email" id="email" required>
                   </div>
                   <div class="input-wrap subject">
-                     <input type="text" value="" tabindex="2" placeholder="Subject" name="subject" id="email">
+                     <input type="text" value="" tabindex="1" placeholder="Subject" name="subject" id="name" required>
                   </div>
                   <div class="textarea-wrap">
                      <textarea class="text" tabindex="3" placeholder="Message" name="message" id="message" required></textarea>
