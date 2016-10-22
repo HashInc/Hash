@@ -27,7 +27,7 @@
    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'>
    <link href="icon/favicon.png" rel="shortcut icon">
 </head>
-<body>
+<body onload="red()">
    <div class="se-pre-con"></div>
    <div class="top">
       <div class="container">
@@ -93,7 +93,6 @@
                <div class="titlebox">
                   <h2 id="success" class="subtitle text-white">Contact</h2>
                   <h1 class="maintitle text-color">DO YOU HAVE QUESTIONS?</h1>
-                  <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac cursus tortor, nec accumsan metus. Sed dapibus elit semper imperdiet suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                </div>
                <div class="spacer"></div>
             </div><!-- /.span12 -->
@@ -236,6 +235,46 @@
 		$(".se-pre-con").fadeOut("slow");;
 	});
 	</script>
+  <script language="javascript">
+function red()
+{
+	var type = window.location.hash.substr(1);
+	if(type == "success")
+	{
+    $(window).load(function(){
+        $('#myModal').modal('show');
+    });
+    red2();
+ 	}
+}
+</script>
+<script>
+  function red2()
+  {
+    history.pushState('', document.title, window.location.pathname);
+  }
+</script>
+
+<!-- Modal -->
+<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 style="background-color:blue;" class="modal-title">Dear <?php echo $_GET['name']; ?></h4>
+      </div>
+      <div class="modal-body">
+        <p>Some text in the modal.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
+</div>
 	<script>
 	var ajaxContactForm = function() {
 	      // http://www.bitrepository.com/a-simple-ajax-contact-form-with-php-validation.html
