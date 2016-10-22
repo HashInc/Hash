@@ -1408,6 +1408,7 @@ input:focus:invalid:focus, textarea:focus:invalid:focus, select:focus:invalid:fo
 	font-size: 12px;
 }
 
+
 .comment-respond .input-wrap,
 .comment-respond .textarea-wrap,
 .contact-form .input-wrap,
@@ -1439,6 +1440,12 @@ input:focus:invalid:focus, textarea:focus:invalid:focus, select:focus:invalid:fo
 
 .comment-respond .input-wrap.phone:before,
 .contact-form .input-wrap.phone:before {
+	content:"\f095";
+	font-size: 14px;
+}
+
+.comment-respond .input-wrap.subject:before,
+.contact-form .input-wrap.subject:before {
 	content:"\f095";
 	font-size: 14px;
 }

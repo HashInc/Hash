@@ -139,22 +139,13 @@
             <div class="span3 Hashinc-animation" data-animation="fadeInRight" data-animation-delay="0" data-animation-offset="75%">
                <h3 class="title">INFORMATION</h3>
                <ul class="information unstyled">
-                  <li class="road">2-3 London Rd, London SE1 6JZ <br>UnitedKingdom</li>
-                  <li class="phone">+91 917 6156 512 <br>+44 256 2583 257</li>
-                  <li class="email">info@yourdomain.com <br>contact@yourdomain.com</li>
+                  <li class="road">Chennai - 96, <br>India</li>
+                  <li class="phone">+91 917 6156 512 <br>+91 984 0357 517</li>
+                  <li class="email">hashinc16@gmail.com</li>
                </ul>
             </div><!-- /.span3 -->
             <div class="span3 Hashinc-animation" data-animation="fadeInRight" data-animation-delay="0" data-animation-offset="75%">
-               <h3 class="title">ALWAYS AT WORK!</h3>
-               <ul class="working unstyled">
-                  <li>Monday <span>9:00 am - 5:00 pm</span></li>
-                  <li>Tuesday <span>9:00 am - 5:00 pm</span></li>
-                  <li>Wednesday <span>9:00 am - 5:00 pm</span></li>
-                  <li>Thursday <span>9:00 am - 5:00 pm</span></li>
-                  <li>Friday <span>10:00 am - 7:00 pm</span></li>
-                  <li>Saturday <span>10:00 am - 2:00 pm</span></li>
-                  <li>Sunday <span>10:00 am - 1:00 pm</span></li>
-              </ul>
+               <h3 class="title">ALWAYS AT WORK! <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 24 / 7</h3>
             </div><!-- /.span3 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
@@ -204,7 +195,7 @@
          <div class="row">
             <div class="span12">
                <div class="copyright pull-left">
-                  <span>HashInclude</span> 2016 | ALL RIGHTS RESERVED
+                  <span>HashInclude</span> <?php echo DATE("Y"); ?> | ALL RIGHTS RESERVED
                </div>
                <div class="bottom-links pull-right">
                   <a href="index.php">HOME</a> |
