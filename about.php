@@ -126,7 +126,7 @@
                <div class="titlebox Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0" data-animation-offset="75%">
                   <h2 class="subtitle text-white">Our team</h2>
                   <h1 class="maintitle text-color">WHO ARE WE?</h1>
-                  <p class="text-white">The team which works for you always to get best services and products and ensure the quality.</p>
+                  <p class="text-white">The team which works for you always to give best services, products and ensure the quality.</p>
                </div>
                <div class="spacer"></div>
             </div><!-- /.span12 -->
