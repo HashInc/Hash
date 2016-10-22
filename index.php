@@ -225,6 +225,7 @@
                         <div class="detail">
                            <div class="text">
                               <h3 class="project-title"><a href="www.hitsrevelation.com">Revelation</a></h3>
+							  <p>16 September 2016</p>
                            </div>
                            <div class="link">
                               <div class="icon-bg"></div>
@@ -485,7 +486,7 @@
          <div class="row">
             <div class="span12">
                <div class="copyright pull-left">
-                  <span>HashInclude</span> 2016 | ALL RIGHTS RESERVED
+                  <span>HashInclude </span> &copy 2016 <span> | </span> ALL RIGHTS </span> <span>RESERVED</span>
                </div>
                <div class="bottom-links pull-right">
                   <a href="#">HOME</a> |
