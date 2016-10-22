@@ -486,7 +486,7 @@
          <div class="row">
             <div class="span12">
                <div class="copyright pull-left">
-                  <span>HashInclude </span> &copy 2016 <span> | </span> ALL RIGHTS </span> <span>RESERVED</span>
+                  <span><a href="www.hashinc.in">HashInclude</a></span> &copy 2016 | ALL RIGHTS RESERVED.
                </div>
                <div class="bottom-links pull-right">
                   <a href="#">HOME</a> |

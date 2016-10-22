@@ -309,7 +309,7 @@
          <div class="row">
             <div class="span12">
                <div class="copyright pull-left">
-                  <span>Hash Include</span> 2014 | ALL RIGHT RESERVED
+                  <span><a href="www.hashinc.in">HashInclude</a></span> &copy 2016 | ALL RIGHTS RESERVED.
                </div>
                <div class="bottom-links pull-right">
                   <a href="index.php">HOME</a> |
