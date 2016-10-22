@@ -465,6 +465,13 @@
                            </div>
                         </div>
                      </a>
+                        <a class="iconwrap" href="https://www.youtube.com/channel/UCWnwjz_S9RTms3K10NdkyTA">
+                        <div class="icon">
+                           <div class="iconbg">
+                              <i class="icons-youtube"></i>
+                           </div>
+                        </div>
+                     </a>
                      
                      <a class="iconwrap" href="https://plus.google.com/u/0/105532434800273536097">
                         <div class="icon">
