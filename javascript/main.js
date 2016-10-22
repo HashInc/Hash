@@ -16,7 +16,6 @@
   * Project Effect
   * Go Top Button
   * Lastest Tweets
-  * Ajax Contact Form
   * Flickr Feed
   * Count Down
   * Parallax

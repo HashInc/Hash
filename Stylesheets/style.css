@@ -1370,6 +1370,20 @@ input[type="color"],
 	        box-sizing: border-box;
 }
 
+.comment-respond input[type="email"],
+.comment-respond textarea,
+.contact-form input[type="email"],
+.contact-form textarea {
+   background-color: transparent;
+   color: #fff;
+	border-radius: 0;
+	width: 100%;
+	padding-left: 42px;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+
 input:focus:invalid:focus, textarea:focus:invalid:focus, select:focus:invalid:focus {
    border-color: #fff;
    box-shadow: none;
@@ -1384,6 +1398,12 @@ input:focus:invalid:focus, textarea:focus:invalid:focus, select:focus:invalid:fo
 
 .comment-respond input[type="text"],
 .contact-form input[type="text"] {
+	height: 40px;
+	font-size: 12px;
+}
+
+.comment-respond input[type="email"],
+.contact-form input[type="email"] {
 	height: 40px;
 	font-size: 12px;
 }
@@ -1417,13 +1437,19 @@ input:focus:invalid:focus, textarea:focus:invalid:focus, select:focus:invalid:fo
 	font-size: 14px;
 }
 
+.comment-respond .input-wrap.phone:before,
+.contact-form .input-wrap.phone:before {
+	content:"\f095";
+	font-size: 14px;
+}
+
 .comment-respond .input-wrap.website:before {
 	content:"\f0ac";
 }
 
 .comment-respond .textarea-wrap:before,
 .contact-form .textarea-wrap:before {
-	content:"\f086";
+	content:"\f0a1";
 }
 
 .comment-respond .submit-wrap,

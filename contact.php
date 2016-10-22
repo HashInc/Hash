@@ -147,19 +147,22 @@
       ?>
          <div class="row">
             <div class="span6 Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0" data-animation-offset="75%">
-               <form class="contact-form" method="post" action="con.php">
+               <form class="contact-form" method="post" action="contact_db.php">
                   <div id="success" class="note"></div>
                   <div class="input-wrap name">
-                     <input type="text" value="" tabindex="1" placeholder="Name" name="name" id="name">
+                     <input type="text" value="" tabindex="1" placeholder="Name" name="name" id="name" required>
                   </div>
-                  <div class="input-wrap email">
-                     <input type="text" value="" tabindex="2" placeholder="E-mail" name="email" id="email">
+                  <div class="input-wrap phone">
+                     <input type="text" value="" tabindex="2" placeholder="Phone" name="phone" id="name">
                   </div>
                    <div class="input-wrap email">
-                     <input type="text" value="" tabindex="2" placeholder="E-mail" name="email" id="email">
+                     <input type="email" value="" tabindex="2" placeholder="E-mail" name="email" id="email" required>
+                  </div>
+                  <div class="input-wrap subject">
+                     <input type="text" value="" tabindex="2" placeholder="Subject" name="subject" id="email">
                   </div>
                   <div class="textarea-wrap">
-                     <textarea class="" tabindex="3" placeholder="Message" name="message" id="message"></textarea>
+                     <textarea class="text" tabindex="3" placeholder="Message" name="message" id="message" required></textarea>
                   </div>
                   <div class="submit-wrap">
                      <input type="submit" name="submit" class="btn-Hashinc black">

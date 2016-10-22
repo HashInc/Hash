@@ -166,6 +166,7 @@ hr.color {
 .comment-respond input[type="text"],
 .comment-respond textarea,
 .contact-form input[type="text"],
+.contact-form input[type="email"],
 .contact-form textarea,
 .footer .btn-Hashinc.border-type:hover,
 .footer .widget-recent-posts ul li img,
