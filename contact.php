@@ -26,6 +26,11 @@
    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,700' rel='stylesheet' type='text/css'>
    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'>
    <link href="icon/favicon.png" rel="shortcut icon">
+   <style>
+    #modal{
+        background-color: red;
+    }
+   </style>
 </head>
 <body onload="red()">
    <div class="se-pre-con"></div>
@@ -263,47 +268,20 @@ function red()
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 style="background-color:blue;" class="modal-title">Dear <?php echo $_GET['name']; ?></h4>
+        <h4 class="modal-title"><center>Thank You</center></h4>
       </div>
       <div class="modal-body">
-        <p>Some text in the modal.</p>
+        <p>Dear <?php echo "<b>".$_GET['name']."</b>"; ?>, </p>
+        <p>Your message will be sent to us. We will get back to you as soon as possible</p>
+        <p><strong>Hash Include</strong></p>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
       </div>
     </div>
 
   </div>
 </div>
-	<script>
-	var ajaxContactForm = function() {
-	      // http://www.bitrepository.com/a-simple-ajax-contact-form-with-php-validation.html
-	      $('.contact-form').each(function(){
-	         var $this = $(this); 
-	         $this.submit(function() {
-	            var str = $this.serialize();
-	            $.ajax({
-	               type: "POST",
-	               url:  $this.attr('action'),
-	               data: str,
-	               success: function(msg) {
-	                  // Message Sent? Show the 'Thank You' message and hide the form
-	                  var result;
-	                  if(msg == 'OK') {
-	                     result = '<div class="notification_ok">Your message has been sent. Thank you!</div>';
-	                  } else {
-	                     result = msg;
-	                  }
-	                  result = '<div class="result">' + result + '</div>';
-	                  $this.find('.note').html(result);
-	               }
-	            });
-	            return false;
-	         }); // submit
-
-	      }); // each contactform
-	   }; // contact
-	</script>
 </body>
 
 </html>
