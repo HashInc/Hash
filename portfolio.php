@@ -374,7 +374,7 @@
                         </div>
                      </a>
                      
-                     <a class="iconwrap" href="#">
+                     <a class="iconwrap" href="https://plus.google.com/u/0/105532434800273536097">
                         <div class="icon">
                            <div class="iconbg">
                               <i class="icons-google-plus"></i>
