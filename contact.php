@@ -18,41 +18,20 @@
 	background: url("images/loader-64x/Preloader_<?php echo $number ?>.gif") center no-repeat #fff;
 }
 </style>
-
-   <!-- Mobile Specific Metas -->
    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-   <!-- Bootstrap  -->
    <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.css" >
-
-   <!-- Theme Style -->
    <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
-
-   <!-- Colors -->
    <link rel="stylesheet" type="text/css" href="stylesheets/colors/color4.css" id="colors">
-   
-   <!-- Animation Style -->
    <link rel="stylesheet" type="text/css" href="stylesheets/animate.css">
-
-   <!-- Google Fonts -->
    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,700' rel='stylesheet' type='text/css'>
    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'>
-
-   <!-- Favicon and touch icons  -->
    <link href="icon/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144">
    <link href="icon/apple-touch-icon-114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114">
    <link href="icon/apple-touch-icon-72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72">
    <link href="icon/apple-touch-icon-57-precomposed.png" rel="apple-touch-icon-precomposed">
    <link href="icon/favicon.png" rel="shortcut icon">
-
-   <!--[if lt IE 9]>
-      <script src="javascript/html5shiv.js"></script>
-      <script src="javascript/respond.min.js"></script>
-   <![endif]-->
 </head>
-
 <body>
-   <!-- Top -->
    <div class="se-pre-con"></div>
    <div class="top">
       <div class="container">
@@ -61,13 +40,10 @@
                <ul class="contact-info inline pull-left">
                   <li class="email"><a href="#">hashinc16@gmail.com</a></li>
                </ul>
-            </div><!-- /.span8 -->
-            
-         </div><!-- /.row -->
-      </div><!-- /.containter -->
+            </div>            
+         </div>
+      </div>
    </div>
-
-   <!-- Parallax Fullwidth -->
    <div id="page-slider" class="parallax-bg7 parallax">
       <div class="overlay"></div>
       <header id="header" class="header">
@@ -79,10 +55,10 @@
                         <a href="./" rel="home">
                            <img src="images/logo.png" alt="Hashinc" />
                         </a>
-                     </div><!-- /.logo -->
-                  </div><!-- /.span2 -->
+                     </div>
+                  </div>
                   <div class="span10">
-                     <div class="btn-menu"></div><!-- //mobile menu button -->
+                     <div class="btn-menu"></div>
                      <nav id="mainnav" class="mainnav">
                         <ul class="menu">
                            <li><a href="index.php">Home</a>
@@ -91,12 +67,12 @@
                            <li><a href="portfolio.php">Our Work</a></li>
                            <li><a class="active" href="#">Contact</a></li>
                            <li><a href="blog.php">Blog</a></li>
-                        </ul><!-- /.menu -->
+                        </ul>
                      </nav>
-                  </div><!-- /.span10 -->
-               </div><!-- /.row -->
-            </div><!-- /.container -->
-         </div><!-- /.header-wrap -->
+                  </div>
+               </div>
+              </div>
+         </div>
       </header>
    </div>
 
