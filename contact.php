@@ -75,22 +75,20 @@
          </div>
       </header>
    </div>
-
-   <!-- Page Title -->
    <section class="page-title-container">
    	<div class="container page-title">
    		<div class="page-title-wrapper">
 			   <div class="span6 page-title-captions">
 			   	<h1>Contact</h1>
-			   </div><!-- /.span6 -->
+			   </div>
 			   <div class="span6 breadcrumbs">
 					<ul>
 					<li><a href="index.php">Home </a>/</li>
 					<li><a href="contact.php">Contact </a>/</li>
 					</ul>
-			   </div><!-- /.span6 -->
-         </div><!-- /.row -->
-      </div><!-- /.container -->
+			   </div>
+         </div>
+      </div>
    </section>
 
    <!-- Form -->
