@@ -615,8 +615,7 @@
       progressBar();
       orAnimation();
       effectProject();
-      goTop()
-      ajaxContactForm();
+      goTop();
       flickrFeed();
       orCountdown();
       ajaxSubscribe.eventLoad();

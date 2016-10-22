@@ -82,7 +82,7 @@
                   <div class="span2">
                      <div id="logo" class="logo">
                         <a href="./" rel="home">
-                           <img src="images/logo.png" alt="Orches" />
+                           <img src="images/logo.png" alt="Hash Include" />
                         </a>
                      </div><!-- /.logo -->
                   </div><!-- /.span2 -->
@@ -95,7 +95,7 @@
                            <li><a href="services.php">Services</a></li>
                            <li><a href="portfolio.php">Our Work</a></li>
                            <li><a href="contact.php">Contact</a></li>
-                           <li><a active href="#">Blog</a></li>
+                           <li><a class="active" href="#">Blog</a></li>
                         </ul><!-- /.menu -->
                      </nav>
                   </div><!-- /.span10 -->
@@ -128,7 +128,7 @@
       <div class="container">
          <div class="row">
             <div class="span12">
-               <div class="titlebox orches-animation" data-animation="fadeInUp" data-animation-delay="0.6s" data-animation-offset="75%">
+               <div class="titlebox Hash Include-animation" data-animation="fadeInUp" data-animation-delay="0.6s" data-animation-offset="75%">
                   <h2 class="subtitle text-white">Blog</h2>
                   <h1 class="maintitle text-color">GRAPHICAL NEWS</h1>
                   <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dapibus lorem a ipsum tempus, at molestie erat pellentesque. Nulla non diam mollis, luctus orci mattis, ullamcorper massa.</p>
@@ -147,7 +147,7 @@
                <li><a data-filter=".illustration" href="#">Illustration</a></li>
                <li><a data-filter=".webdesign" href="#">Web Design</a></li>
             </ul><!-- /.post-filter -->
-            <div class="posts-container orches-animation" data-animation="fadeInUp" data-animation-delay="0" data-animation-offset="75%">
+            <div class="posts-container Hash Include-animation" data-animation="fadeInUp" data-animation-delay="0" data-animation-offset="75%">
                <div class="item post-item popular editorial">
                   <div class="featured-post">
                     <a href="blog-single.php">
@@ -264,7 +264,7 @@
                </div><!-- /.post-item -->
             </div><!-- /.posts-container -->
            <div class="loadmore-btn loadmore-post">
-              <a href="#" class="btn-orches border-type">LOAD MORE</a>
+              <a href="#" class="btn-Hash Include border-type">LOAD MORE</a>
            </div><!-- /.loadmore-btn -->
          </div><!-- /.posts-wrap -->
       </div><!-- /.container -->
@@ -275,7 +275,7 @@
       <div class="container">
          <div class="row">
             <div class="span12">
-               <div class="socials-list orches-animation" data-animation="fadeInLeft" data-animation-delay="0" data-animation-offset="75%">
+               <div class="socials-list Hash Include-animation" data-animation="fadeInLeft" data-animation-delay="0" data-animation-offset="75%">
                   <div class="follow-us">
                      <h3>Follow Us</h3>
                   </div>
@@ -343,10 +343,10 @@
             <div class="span3">
                <div class="widget widget-brand">
                   <div class="logo">
-                     <a href="./"><img src="images/logo.png" alt="Orches" /></a>
+                     <a href="./"><img src="images/logo.png" alt="Hash Include" /></a>
                   </div>
                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non turpis auctor, rutrum lacus ultrices, venenatis odio. Cras elementum elit eu ante interdum cursus. Curabitur a risus ornare, volutpat diam at, suscipit nisi. Nunc elit nunc, rhoncus eu fermentum sed.</p>
-                  <a href="#" class="btn-orches border-type">READ MORE</a>
+                  <a href="#" class="btn-Hash Include border-type">READ MORE</a>
                </div><!-- /.widget-brand -->
             </div><!-- /.span3 -->
             <div class="span3">
@@ -413,7 +413,7 @@
          <div class="row">
             <div class="span12">
                <div class="copyright pull-left">
-                  <span>ORCHES</span> 2014 | ALL RIGHT RESERVED
+                  <span>Hash Include</span> 2014 | ALL RIGHT RESERVED
                </div>
                <div class="bottom-links pull-right">
                   <a href="index.php">HOME</a> |
