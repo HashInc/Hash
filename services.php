@@ -102,7 +102,7 @@
                <div class="titlebox">
                   <h2 class="subtitle text-white">Services</h2>
                   <h1 class="maintitle text-color">A FEW INTERESTING FACTS ABOUT US</h1>
-                  <p class="text-white">Fusce nec fermentum arcu, eu elementum libero. Phasellus euismod et turpis ut viverra. Quisque vel tristique tellus. Etiam nec neque eu augue fringilla porta.</p>
+                  <p class="text-white">We provide different types of services with regards to Graphics and IT solutions.</p>
                </div>
                <div class="spacer"></div>
             </div><!-- /.span12 -->
@@ -113,8 +113,8 @@
                         <i class="icons-lightbulb"></i>
                      </div>
                   </div>
-                  <h3><a href="#">STRATEGIC ACTION PLAN</a></h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis fermentumurna vitae.</p>
+                  <h3><a href="#">Web Development</a></h3>
+                  <p>In this digital world everyone wants to multiply or own a business. Since half of world's population have the access the internet as per today. It is important for us to go online for our business. At HashInclude we provide web designing services and products. As per your requirements we analyze your working model and try to give the best out of it. Here at HashInclude we have professional team of people who are well versed in designing and development who can help you for this.</p>
                </div>
             </div><!-- /.span3 -->
             <div class="span3">
@@ -124,8 +124,8 @@
                         <i class="icons-copy-paste"></i>
                      </div>
                   </div>
-                  <h3><a href="#">PROFESSIONAL DESIGN</a></h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis fermentumurna vitae.</p>
+                  <h3><a href="#">Computer Solutions</a></h3>
+                  <p>HashInclude provides technology-based business process solutions, next-gen mobility solutions. The solutions are built on proprietary industrial frameworks that significantly reduce work effort and cost while providing faster go-to-market speeds and nimble responses to market dynamics - called Platformization and product engineering services. </p>
                </div>
             </div><!-- /.span3 -->
             <div class="span3">
