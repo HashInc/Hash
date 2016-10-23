@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <head>
-   <!-- Basic Page Needs -->
    <meta charset="utf-8">
-    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
    <title>HashInclude | Your Web Developer</title>
    <?php 
 		$number = rand(1, 10);
@@ -20,41 +18,21 @@
 	background: url("images/loader-64x/Preloader_<?php echo $number ?>.gif") center no-repeat #fff;
 }
 </style>
-
-   <!-- Mobile Specific Metas -->
    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-   <!-- Bootstrap  -->
    <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.css" >
-
-   <!-- Theme Style -->
    <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
-
-   <!-- Colors -->
    <link rel="stylesheet" type="text/css" href="stylesheets/colors/color4.css" id="colors">
-   
-   <!-- Animation Style -->
    <link rel="stylesheet" type="text/css" href="stylesheets/animate.css">
-
-   <!-- Google Fonts -->
    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,700' rel='stylesheet' type='text/css'>
    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'>
-
-   <!-- Favicon and touch icons  -->
    <link href="icon/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144">
    <link href="icon/apple-touch-icon-114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114">
    <link href="icon/apple-touch-icon-72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72">
    <link href="icon/apple-touch-icon-57-precomposed.png" rel="apple-touch-icon-precomposed">
    <link href="icon/favicon.png" rel="shortcut icon">
-
-   <!--[if lt IE 9]>
-      <script src="javascript/html5shiv.js"></script>
-      <script src="javascript/respond.min.js"></script>
-   <![endif]-->
 </head>
 
 <body>
-   <!-- Top -->
    <div class="se-pre-con"></div>
    <div class="top">
       <div class="container">
@@ -63,13 +41,10 @@
                <ul class="contact-info inline pull-left">
                   <li class="email"><a href="#">hashinc16@gmail.com</a></li>
                </ul>
-            </div><!-- /.span8 -->
-           
-         </div><!-- /.row -->
-      </div><!-- /.containter -->
+            </div>           
+         </div>
+      </div>
    </div>
-
-   <!-- Parallax Fullwidth -->
    <div id="page-slider" class="parallax-bg7 parallax">
       <div class="overlay"></div>
       <header id="header" class="header">
@@ -81,10 +56,10 @@
                         <a href="./" rel="home">
                            <img src="images/logo.png" alt="Hashinc" />
                         </a>
-                     </div><!-- /.logo -->
-                  </div><!-- /.span2 -->
+                     </div>
+                  </div>
                   <div class="span10">
-                     <div class="btn-menu"></div><!-- /mobile menu button -->
+                     <div class="btn-menu"></div>
                      <nav id="mainnav" class="mainnav">
 						<ul class="menu">
                            <li><a href="index.php">Home</a>
@@ -93,12 +68,12 @@
                            <li><a href="portfolio.php">Our Work</a></li>
                            <li><a href="contact.php">Contact</a></li>
                            <li><a href="blog.php">Blog</a></li>
-                        </ul><!-- /.menu -->
+                        </ul>
                      </nav>
-                  </div><!-- /.span10 -->
-               </div><!-- /.row -->
-            </div><!-- /.container -->
-         </div><!-- /.header-wrap -->
+                  </div>
+               </div>
+            </div>
+         </div>
       </header>
    </div>
 
@@ -127,7 +102,7 @@
                <div class="titlebox">
                   <h2 class="subtitle text-white">Services</h2>
                   <h1 class="maintitle text-color">A FEW INTERESTING FACTS ABOUT US</h1>
-                  <p class="text-white">Fusce nec fermentum arcu, eu elementum libero. Phasellus euismod et turpis ut viverra. Quisque vel tristique tellus. Etiam nec neque eu augue fringilla porta.</p>
+                  <p class="text-white">We provide different types of services with regards to Graphics and IT solutions.</p>
                </div>
                <div class="spacer"></div>
             </div><!-- /.span12 -->
@@ -138,8 +113,8 @@
                         <i class="icons-lightbulb"></i>
                      </div>
                   </div>
-                  <h3><a href="#">STRATEGIC ACTION PLAN</a></h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis fermentumurna vitae.</p>
+                  <h3><a href="#">Web Development</a></h3>
+                  <p>In this digital world everyone wants to multiply or own a business. Since half of world's population have the access the internet as per today. It is important for us to go online for our business. At HashInclude we provide web designing services and products. As per your requirements we analyze your working model and try to give the best out of it. Here at HashInclude we have professional team of people who are well versed in designing and development who can help you for this.</p>
                </div>
             </div><!-- /.span3 -->
             <div class="span3">
@@ -149,8 +124,8 @@
                         <i class="icons-copy-paste"></i>
                      </div>
                   </div>
-                  <h3><a href="#">PROFESSIONAL DESIGN</a></h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis fermentumurna vitae.</p>
+                  <h3><a href="#">Computer Solutions</a></h3>
+                  <p>HashInclude provides technology-based business process solutions, next-gen mobility solutions. The solutions are built on proprietary industrial frameworks that significantly reduce work effort and cost while providing faster go-to-market speeds and nimble responses to market dynamics - called Platformization and product engineering services. </p>
                </div>
             </div><!-- /.span3 -->
             <div class="span3">
@@ -189,23 +164,23 @@
                   <div class="toggle">
                      <div class="toggle-title active"><span>BRANDING</span></div>
                      <div class="toggle-content">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum nisi, interdum ut nisi a, congue ultricies arcu. Vivamus sit amet erat orci. Cras congue ligula eros, eget egestas nisi gravida semper. Proin vel malesuada mauris, vitae ultricies arcu. Praesent vitae metus sed massa consectetur vulputate id nec dui.</p>
+                        <p>We do brandings.</p>
                      </div>
                   </div><!-- /toggle -->
                   <div class="toggle">
-                     <div class="toggle-title"><span>EDITORIAL DESIGN</span></div>
+                     <div class="toggle-title"><span>BUSINESS CARDS</span></div>
                      <div class="toggle-content">
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum nisi, interdum ut nisi a, congue ultricies arcu. Vivamus sit amet erat orci. Cras congue ligula eros, eget egestas nisi gravida semper. Proin vel malesuada mauris, vitae ultricies arcu. Praesent vitae metus sed massa consectetur vulputate id nec dui.</p>
                      </div>
                   </div><!-- /.toggle -->
                   <div class="toggle">
-                     <div class="toggle-title"><span>ILLUSTRATION</span></div>
+                     <div class="toggle-title"><span>POSTER</span></div>
                      <div class="toggle-content">
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum nisi, interdum ut nisi a, congue ultricies arcu. Vivamus sit amet erat orci. Cras congue ligula eros, eget egestas nisi gravida semper. Proin vel malesuada mauris, vitae ultricies arcu. Praesent vitae metus sed massa consectetur vulputate id nec dui.</p>
                      </div>
                   </div><!-- /.toggle -->
                   <div class="toggle">
-                     <div class="toggle-title"><span>WEBDESIGN</span></div>
+                     <div class="toggle-title"><span>BANNER</span></div>
                      <div class="toggle-content">
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum nisi, interdum ut nisi a, congue ultricies arcu. Vivamus sit amet erat orci. Cras congue ligula eros, eget egestas nisi gravida semper. Proin vel malesuada mauris, vitae ultricies arcu. Praesent vitae metus sed massa consectetur vulputate id nec dui.</p>
                      </div>
