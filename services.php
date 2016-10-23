@@ -164,23 +164,23 @@
                   <div class="toggle">
                      <div class="toggle-title active"><span>BRANDING</span></div>
                      <div class="toggle-content">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum nisi, interdum ut nisi a, congue ultricies arcu. Vivamus sit amet erat orci. Cras congue ligula eros, eget egestas nisi gravida semper. Proin vel malesuada mauris, vitae ultricies arcu. Praesent vitae metus sed massa consectetur vulputate id nec dui.</p>
+                        <p>We do brandings.</p>
                      </div>
                   </div><!-- /toggle -->
                   <div class="toggle">
-                     <div class="toggle-title"><span>EDITORIAL DESIGN</span></div>
+                     <div class="toggle-title"><span>BUSINESS CARDS</span></div>
                      <div class="toggle-content">
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum nisi, interdum ut nisi a, congue ultricies arcu. Vivamus sit amet erat orci. Cras congue ligula eros, eget egestas nisi gravida semper. Proin vel malesuada mauris, vitae ultricies arcu. Praesent vitae metus sed massa consectetur vulputate id nec dui.</p>
                      </div>
                   </div><!-- /.toggle -->
                   <div class="toggle">
-                     <div class="toggle-title"><span>ILLUSTRATION</span></div>
+                     <div class="toggle-title"><span>POSTER</span></div>
                      <div class="toggle-content">
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum nisi, interdum ut nisi a, congue ultricies arcu. Vivamus sit amet erat orci. Cras congue ligula eros, eget egestas nisi gravida semper. Proin vel malesuada mauris, vitae ultricies arcu. Praesent vitae metus sed massa consectetur vulputate id nec dui.</p>
                      </div>
                   </div><!-- /.toggle -->
                   <div class="toggle">
-                     <div class="toggle-title"><span>WEBDESIGN</span></div>
+                     <div class="toggle-title"><span>BANNER</span></div>
                      <div class="toggle-content">
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum nisi, interdum ut nisi a, congue ultricies arcu. Vivamus sit amet erat orci. Cras congue ligula eros, eget egestas nisi gravida semper. Proin vel malesuada mauris, vitae ultricies arcu. Praesent vitae metus sed massa consectetur vulputate id nec dui.</p>
                      </div>
