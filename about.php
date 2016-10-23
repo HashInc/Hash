@@ -96,9 +96,7 @@
          <div class="row">
             <div class="span12">
                <div class="titlebox Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0" data-animation-offset="75%">
-                  <h2 class="subtitle text-white">Our team</h2>
-                  <h1 class="maintitle text-color">WHO ARE WE?</h1>
-                  <p class="text-white">The team which works for you always to give best services, products and ensure the quality.</p>
+                  <h1 class="maintitle text-color"> Founding Members</h1>
                </div>
                <div class="spacer"></div>
             </div><!-- /.span12 -->
@@ -111,7 +109,7 @@
                 </div>
                 <div class="info">
                   <h5 class="name">Surakshit Kumar</h5>
-                  <p class="position">Co-Founder</p>
+                  <p class="position"> Chief Executive Officer</p>
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="www.facebook.com/surakshit.kumar"><i class="icons-facebook"></i></a></li>
@@ -129,8 +127,8 @@
                   </div>
                 </div>
                 <div class="info">
-                  <h5 class="name">Arihant Jain</h5>
-                  <p class="position">Co-Founder</p>
+                  <h5 class="name">Kunal Dhariwal</h5>
+                  <p class="position"> Chief Operating Officer</p>
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
@@ -148,8 +146,77 @@
                   </div>
                 </div>
                 <div class="info">
-                  <h5 class="name">Kunal Dhariwal</h5>
-                  <p class="position">Co-Founder</p>
+                  <h5 class="name">Arihant Jain</h5>
+                  <p class="position"> Chief Communications Officer </p>
+                </div>
+                <ul class="socials unstyled">
+                  <li><a href="#"><i class="icons-facebook"></i></a></li>
+                  <li><a href="#"><i class="icons-twitter"></i></a></li>
+                 
+                </ul>
+                <div class="clearfix"></div>
+              </div><!-- /.team -->
+            </div><!-- /.span3 -->
+
+   <section class="section entry-post" style="background-color: #10101d">
+      <div class="container">
+         <div class="row">
+            <div class="span12">
+               <div class="titlebox Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0" data-animation-offset="75%">
+                  
+                  <h1 class="maintitle text-color"> Our Team</h1>
+                  <p class="text-white">The team which works for you always to give best services, products and ensure the quality.</p>
+               </div>
+               <div class="spacer"></div>
+            </div><!-- /.span12 -->
+            <div class="span3">
+              <div class="team Hashinc-animation" data-animation="fadeIn" data-animation-delay="0" data-animation-offset="75%">
+                <div class="photo">
+                  <div class="overlays">
+                    <img src="images/team/2.jpg" alt="image">
+                  </div>
+                </div>
+                <div class="info">
+                  <h5 class="name">Manjunath Poilath</h5>
+                  <p class="position">Chief Technical Officer</p>
+                </div>
+                <ul class="socials unstyled">
+                  <li><a href="#"><i class="icons-facebook"></i></a></li>
+                  <li><a href="#"><i class="icons-twitter"></i></a></li>
+                 
+                </ul>
+                <div class="clearfix"></div>
+              </div><!-- /.team -->
+            </div><!-- /.span3 -->
+            <div class="span3">
+              <div class="team Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0.2s" data-animation-offset="75%">
+                <div class="photo">
+                  <div class="overlays">
+                    <img src="images/team/2.jpg" alt="image">
+                  </div>
+                </div>
+                <div class="info">
+                  <h5 class="name">SriRam Ramakrishna</h5>
+                  <p class="position">Chief Finance Officer</p>
+                </div>
+                <ul class="socials unstyled">
+                  <li><a href="#"><i class="icons-facebook"></i></a></li>
+                  <li><a href="#"><i class="icons-twitter"></i></a></li>
+                
+                </ul>
+                <div class="clearfix"></div>
+              </div><!-- /.team -->
+            </div><!-- /.span3 -->
+            <div class="span3">
+              <div class="team Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0.4s" data-animation-offset="75%">
+                <div class="photo">
+                  <div class="overlays">
+                    <img src="images/team/3.jpg" alt="image">
+                  </div>
+                </div>
+                <div class="info">
+                  <h5 class="name">Sundaram Ramachandran</h5>
+                  <p class="position">Chief Marketing Officer</p>
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
@@ -167,8 +234,8 @@
                   </div>
                 </div>
                 <div class="info">
-                  <h5 class="name">Manjunath Poilath</h5>
-                  <p class="position">CTO</p>
+                  <h5 class="name">Akash Sanjeev</h5>
+                  <p class="position">Chief Designing Officer</p>
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
@@ -186,8 +253,8 @@
                   </div>
                 </div>
                 <div class="info">
-                  <h5 class="name">Sriramakrishna</h5>
-                  <p class="position">COO</p>
+                  <h5 class="name">Sandesh Jain</h5>
+                  <p class="position">Designing Manager</p>
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>

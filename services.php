@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
    <meta charset="utf-8">
-   <title>HashInclude | Your Web Developer</title>
+   <title>HashInclude | Remember The Name </title>
    <?php 
 		$number = rand(1, 10);
 	?>
@@ -135,7 +135,7 @@
                         <i class="icons-pen"></i>
                      </div>
                   </div>
-                  <h3><a href="#">ELEGANT DESIGN PROJECT</a></h3>
+                  <h3><a href="#">Digital Marketing</a></h3>
                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis fermentumurna vitae.</p>
                </div>
             </div><!-- /.span3 -->
@@ -146,7 +146,7 @@
                         <i class="icons-scissors"></i>
                      </div>
                   </div>
-                  <h3><a href="#">A THOUGHTFUL IDEA</a></h3>
+                  <h3><a href="#"> Customized Printing</a></h3>
                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis fermentumurna vitae.</p>
                </div>
             </div><!-- /.span3 -->
