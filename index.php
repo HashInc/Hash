@@ -164,9 +164,14 @@
             <div class="content-section">
                <div class="span12">
                   <div class="titlebox Hashinc-animation" data-animation="fadeInRight" data-animation-delay="0" data-animation-offset="55%">
-                     <h2 class="subtitle text-white">Motto</h2>
-                     <h3 class="maintitle text-color">OUR MAIN MOTTO IS</h3>
-                     <p class="text-white">Integer aliquam vitae metus eget tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer scelerisque convallis consequat. Cras in tempus sem. Cras tristique erat urna, fermentum rutrum velit faucibus ac.</p>
+                     <h2 class="subtitle text-white">Our Goal</h2>
+                     <h3 class="maintitle text-color">HashInclude</h3>
+                     <p class="text-white">We at HashInclude, always work on the customer needs. 
+					 We work smart to give the best outcome to satisfy our customer needs at a reasonable costing. 
+					 Our team is dedicated to our work and we always try to be parralel with our clients. 
+					 While design is our core-competency, Technology is what keeps giving us quantum leaps and goosebumps. 
+					 We are passionate about the future and always will try to make the future today.
+					 We work here with honest and always a fun-loving bunch.</p>
                   </div>
                </div><!-- /.span12 -->
             </div>
