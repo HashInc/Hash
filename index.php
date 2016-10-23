@@ -18,30 +18,13 @@
 	background: url("images/loader-64x/Preloader_<?php echo $number ?>.gif") center no-repeat #fff;
 }
 	</style>
-   <!-- Mobile Specific Metas -->
    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-   <!-- Bootstrap  -->
    <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.css" >
-
-   <!-- Theme Style -->
    <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
-
-   <!-- Colors -->
    <link rel="stylesheet" type="text/css" href="stylesheets/colors/color4.css" id="colors">
-   
-   <!-- Animation Style -->
-   <link rel="stylesheet" type="text/css" href="stylesheets/animate.css">
-
-   <!-- Google Fonts -->
+    <link rel="stylesheet" type="text/css" href="stylesheets/animate.css">
    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,700' rel='stylesheet' type='text/css'>
    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'>
-
-   <!-- Favicon and touch icons  -->
-   <link href="icon/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144">
-   <link href="icon/apple-touch-icon-114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114">
-   <link href="icon/apple-touch-icon-72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72">
-   <link href="icon/apple-touch-icon-57-precomposed.png" rel="apple-touch-icon-precomposed">
    <link href="icon/favicon.png" rel="shortcut icon">
 </head>
 
@@ -191,158 +174,6 @@
       </div>
    </section>
 
-   <!-- Projects -->
-   <section id="projects" class="section projects-section">
-      <div class="container">
-         <div class="row">
-            <div class="span12">
-               <div class="titlebox Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0" data-animation-offset="75%">
-                  <h2 class="subtitle">Projects</h2>
-                  <h3 class="maintitle">EXPLORE OUR WORK</h3>
-                  <p>Nullam viverra, arcu vel porta fermentum, mauris metus convallis quam, eget varius mauris elit quis quam. Etiam in arcu in enim dictum auctor. Nunc laoreet mi fringilla odio ultricies, laoreet cursus lectus malesuada.</p>
-               </div>
-               <div class="spacer"></div>
-            </div><!-- /.span12 -->
-         </div><!-- /.row -->
-      </div><!-- /.container -->
-      <div class="container">
-         <div class="project-wrap">
-            <ul class="project-filter inline">
-               <li class="active"><a data-filter="*" href="#">All</a></li>
-               <li><a data-filter=".branding" href="#">Branding</a></li>
-               <li><a data-filter=".editorial" href="#">Editorial</a></li>
-               <li><a data-filter=".illustration" href="#">Illustration</a></li>
-               <li><a data-filter=".web-design" href="#">Web Design</a></li>
-            </ul><!-- /.project-filter -->
-            <div class="project-container" data-portfolio-effect="zoomIn">
-               <div class="item project-item branding">
-                  <div class="item-wrap">
-                     <div class="project-thumb">
-                        <img src="images/portfolio/1.jpg" alt="image">
-                        <div class="opacity"></div>
-                        <div class="detail">
-                           <div class="text">
-                              <h3 class="project-title"><a href="www.hitsrevelation.com">Revelation</a></h3>
-							  <p>16 September 2016</p>
-                           </div>
-                           <div class="link">
-                              <div class="icon-bg"></div>
-                              <div class="icon">
-                                 <a href="www.hitsrevelation.com"><i class="icons-link"></i></a>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div><!-- /.project-item -->
-               <div class="item project-item editorial">
-                  <div class="item-wrap">
-                     <div class="project-thumb">
-                        <img src="images/portfolio/2.jpg" alt="image">
-                        <div class="opacity"></div>
-                        <div class="detail">
-                           <div class="text">
-                              <h3 class="project-title"><a href="#">Editorial 03</a></h3>
-                              <p>28 December 2014</p>
-                           </div>
-                           <div class="link">
-                              <div class="icon-bg"></div>
-                              <div class="icon">
-                                 <a href="#"><i class="icons-link"></i></a>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div><!-- /.project-item -->
-               <div class="item project-item illustration">
-                  <div class="item-wrap">
-                     <div class="project-thumb">
-                        <img src="images/portfolio/3.jpg" alt="image">
-                        <div class="opacity"></div>
-                        <div class="detail">
-                           <div class="text">
-                              <h3 class="project-title"><a href="#">Illustration 03</a></h3>
-                              <p>28 December 2014</p>
-                           </div>
-                           <div class="link">
-                              <div class="icon-bg"></div>
-                              <div class="icon">
-                                 <a href="#"><i class="icons-link"></i></a>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div><!-- /.project-item -->
-               <div class="item project-item web-design">
-                  <div class="item-wrap">
-                     <div class="project-thumb">
-                        <img src="images/portfolio/4.jpg" alt="image">
-                        <div class="opacity"></div>
-                        <div class="detail">
-                           <div class="text">
-                              <h3 class="project-title"><a href="#">WEB DESIGN 03</a></h3>
-                              <p>28 December 2014</p>
-                           </div>
-                           <div class="link">
-                              <div class="icon-bg"></div>
-                              <div class="icon">
-                                 <a href="#"><i class="icons-link"></i></a>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div><!-- /.project-item -->
-               <div class="item project-item editorial branding">
-                  <div class="item-wrap">
-                     <div class="project-thumb">
-                        <img src="images/portfolio/5.jpg" alt="image">
-                        <div class="opacity"></div>
-                        <div class="detail">
-                           <div class="text">
-                              <h3 class="project-title"><a href="#">BRANDING 03</a></h3>
-                              <p>28 December 2014</p>
-                           </div>
-                           <div class="link">
-                              <div class="icon-bg"></div>
-                              <div class="icon">
-                                 <a href="#"><i class="icons-link"></i></a>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div><!-- /.project-item -->
-               <div class="item project-item illustration web-design">
-                  <div class="item-wrap">
-                     <div class="project-thumb">
-                        <img src="images/portfolio/6.jpg" alt="image">
-                        <div class="opacity"></div>
-                        <div class="detail">
-                           <div class="text">
-                              <h3 class="project-title"><a href="#">BRANDING 03</a></h3>
-                              <p>28 December 2014</p>
-                           </div>
-                           <div class="link">
-                              <div class="icon-bg"></div>
-                              <div class="icon">
-                                 <a href="#"><i class="icons-link"></i></a>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div><!-- /.project-item -->
-            </div><!-- /.project-container -->
-            <div class="loadmore-btn">
-               <a href="#" class="btn-Hashinc border-type v2">LOAD MORE</a>
-            </div><!-- /.loadmore-btn -->
-         </div><!-- /.project-wrap -->
-      </div><!-- /.container -->
-   </section>
- 
    <!-- Testimonial -->
    <section class="section testimonial-section" style="background-color: #10101d;">
       <div class="container">
