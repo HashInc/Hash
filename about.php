@@ -112,7 +112,7 @@
                   <p class="position"> Chief Executive Officer</p>
                 </div>
                 <ul class="socials unstyled">
-                  <li><a href="www.facebook.com/surakshit.kumar"><i class="icons-facebook"></i></a></li>
+                  <li><a href="https://www.facebook.com/surakshitkumar?fref=ts"><i class="icons-facebook"></i></a></li>
                   <li><a href="https://in.linkedin.com/in/surakshit-kumar-737745113"><i class="icons-linkedin"></i></a></li>
                  
                 </ul>
@@ -150,8 +150,8 @@
                   <p class="position"> Chief Communications Officer </p>
                 </div>
                 <ul class="socials unstyled">
-                  <li><a href="#"><i class="icons-facebook"></i></a></li>
-                  <li><a href="#"><i class="icons-linkedin"></i></a></li>
+                  <li><a href="https://www.facebook.com/Arihantjain168"><i class="icons-facebook"></i></a></li>
+                  <li><a href="https://www.linkedin.com/in/arihant-jain-823b6b121"><i class="icons-linkedin"></i></a></li>
                  
                 </ul>
                 <div class="clearfix"></div>
