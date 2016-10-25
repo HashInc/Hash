@@ -102,7 +102,7 @@
                <div class="titlebox">
                   <h2 class="subtitle text-white">Services</h2>
                   <h1 class="maintitle text-color">A FEW INTERESTING FACTS ABOUT US</h1>
-                  <p class="text-white">We provide different types of services with regards to Graphics and IT solutions.</p>
+                  <p class="text-white">We provide different types of services with regards to Graphics, IT solutions and Marketing.</p>
                </div>
                <div class="spacer"></div>
             </div><!-- /.span12 -->
@@ -136,7 +136,7 @@
                      </div>
                   </div>
                   <h3><a href="#">Digital Marketing</a></h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis fermentumurna vitae.</p>
+                  <p> We want to know what consumers are looking for, what their values are, and how can we meet their needs. It's not just about Big Data; it's about translating that into the truth. Digital marketing campaigns are becoming more prevalent, as digital platforms are increasingly incorporated into marketing plans and as people use digital devices instead of going to physical shops. </p>
                </div>
             </div><!-- /.span3 -->
             <div class="span3">
@@ -147,7 +147,7 @@
                      </div>
                   </div>
                   <h3><a href="#"> Customized Printing</a></h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis fermentumurna vitae.</p>
+                  <p> We can print customized or personalized decks to suit any need, whether you'd like to commemorate an event, run a promotion, share some joy, or spread awareness of your company or cause. Want anything customized? you can contact us anytime. We do customized business cards to customized mobile cases.</p>
                </div>
             </div><!-- /.span3 -->
             <div class="spacer"></div>
@@ -155,7 +155,7 @@
                <div class="titlebox Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0" data-animation-offset="75%">
                   <h2 class="subtitle text-white">Other services</h2>
                   <h1 class="maintitle text-color">MORE INFORMATION ABOUT US</h1>
-                  <p class="text-white">Vestibulum molestie ut libero quis bibendum. Maecenas congue nisl felis, eu molestie tellus sodales nec. Donec ac ullamcorper nisi. Vestibulum molestie ut.</p>
+                  <p class="text-white"> We do much more. You can find everything just at one place. Your Convinience is ours.</p>
                </div>
                <div class="spacer"></div>
             </div><!-- /.span12 -->
@@ -164,25 +164,29 @@
                   <div class="toggle">
                      <div class="toggle-title active"><span>BRANDING</span></div>
                      <div class="toggle-content">
-                        <p>We do brandings.</p>
+                        <p> HashInclude stands for excellence in brand strategy and design. We believe that if we bring in creative thinking processes and pursue original and organic thinking, ordinary people can do extra-ordinary things. All our attitude is in our work and not necessarily in our personalities. We use semiotics to both, decode markets and consumers and encode brands through design.</p>
                      </div>
                   </div><!-- /toggle -->
                   <div class="toggle">
-                     <div class="toggle-title"><span>BUSINESS CARDS</span></div>
+                     <div class="toggle-title"><span>Graphic Designs</span></div>
                      <div class="toggle-content">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum nisi, interdum ut nisi a, congue ultricies arcu. Vivamus sit amet erat orci. Cras congue ligula eros, eget egestas nisi gravida semper. Proin vel malesuada mauris, vitae ultricies arcu. Praesent vitae metus sed massa consectetur vulputate id nec dui.</p>
+                        <p>We have dedicated and creative graphic designers to cater your needs. We help you to bring your vision to the reality by using the latest software and talented designers. Our graphic designers are known for their ability to listen, ideate, understand and solve complex creative issues with ease. * Brochure / Flyer designs 
+*Logo Design
+* Advertising banners
+* Letter Heads
+* Business cards and much more </p>
                      </div>
                   </div><!-- /.toggle -->
                   <div class="toggle">
-                     <div class="toggle-title"><span>POSTER</span></div>
+                     <div class="toggle-title"><span> Product Reviews </span></div>
                      <div class="toggle-content">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum nisi, interdum ut nisi a, congue ultricies arcu. Vivamus sit amet erat orci. Cras congue ligula eros, eget egestas nisi gravida semper. Proin vel malesuada mauris, vitae ultricies arcu. Praesent vitae metus sed massa consectetur vulputate id nec dui.</p>
+                        <p> We review products too, You can check out our youtube channel for exciting reviews. Tell us about a product and we will give you an awesome review of it. It's done on demand basis too. GO, GO, check out our channel.</p>
                      </div>
                   </div><!-- /.toggle -->
                   <div class="toggle">
-                     <div class="toggle-title"><span>BANNER</span></div>
+                     <div class="toggle-title"><span>Mobile Solutions</span></div>
                      <div class="toggle-content">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum nisi, interdum ut nisi a, congue ultricies arcu. Vivamus sit amet erat orci. Cras congue ligula eros, eget egestas nisi gravida semper. Proin vel malesuada mauris, vitae ultricies arcu. Praesent vitae metus sed massa consectetur vulputate id nec dui.</p>
+                        <p> We provide solutions related to mobile too. Phone not working? we'll get it ready for you. </p>
                      </div>
                   </div><!-- /.toggle -->
                </div><!-- /.accordion -->

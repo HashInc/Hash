@@ -3,7 +3,7 @@
    <!-- Basic Page Needs -->
    <meta charset="utf-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-   <title>HashInclude | Your Web Developer</title>
+   <title>HashInclude | Remember The Name</title>
    <?php 
 		$number = rand(1, 10);
 	?>
@@ -164,7 +164,7 @@
             <div class="span12">
                <div class="titlebox Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0" data-animation-offset="75%">
                   
-                  <h1 class="maintitle text-color"> Our Team</h1>
+                  <h1 class="maintitle text-color"> Team HashInclude</h1>
                   <p class="text-white">The team which works for you always to give best services, products and ensure the quality.</p>
                </div>
                <div class="spacer"></div>
@@ -178,7 +178,7 @@
                 </div>
                 <div class="info">
                   <h5 class="name">Manjunath Poilath</h5>
-                  <p class="position">Chief Technical Officer</p>
+                  <p class="position">Chief Technology Officer</p>
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
