@@ -268,8 +268,11 @@
               <h3 class="title">A BRIEF HISTORY OF OUR COLLECTIVE</h3>
               <div class="spacer small"></div>
               <div class="text-block">
-                <p>Sed quis turpis eu nulla pretium porta. In volutpat augue ut odio iaculis sagittis. Donec enim massa, euismod at velit vitae, viverra venenatis leo. Donec hendrerit condimentum sem, sit amet tempor enim posuere et. In sit amet quam ante. In dignissim dui risus, non ornare enim tincidunt nec. Sed sit amet enim eget sapien convallis posuere. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc et tempor magna, quis egestas lorem. Vestibulum fringilla non lorem id dictum.</p>
-                <p>Etiam laoreet consequat mauris, a congue lectus sodales eget. Morbi blandit, ipsum ac consequat molestie, nisi enim euismod purus, in consectetur nisl eros auctor orci.</p>
+                <p>The team at HashInclude is well balanced and experienced to handle project and ensure its delivery at  a timely manner.
+				Here at HashInclude we have Designers , Developers who work co-ordinating with our clients.
+				The people here are enthusiastic and optimistic which give a great quality of experience to the clients.
+				</p>
+                <p>The skills of our team are Diversified equally so that people get a great experience from each part of project</p>
               </div>
             </div><!-- /.span6 -->
             <div class="span6">
