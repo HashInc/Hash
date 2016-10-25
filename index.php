@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html>
 <head>
    <meta charset="utf-8">
-   <title>HashInclude | Your Web Developer</title>
+   <title>HashInclude | Remember The Name</title>
 	<?php 
 		$number = rand(1, 10);
 	?>
@@ -86,10 +86,10 @@
             <h1>WE ARE MARKETING.</h1>
          </div>
          <ul class="ideas inline">
-            <li>One Organization</li>
-            <li>Two Developers</li>
-            <li>Four Styles</li>
-            <li>Four Ideas</li>
+            <li> Creative</li>
+            <li> Optimistic</li>
+            <li> Co-operative</li>
+            <li> Trustworthy</li>
          </ul>
       </div><!-- /.content -->
       <div class="arrow"><i class="icons-angle-down"></i></div>
@@ -116,7 +116,7 @@
                      </div>
                   </div>
                   <h3><a href="#">STRATEGIC ACTION PLAN</a></h3>
-                  <p>The projects are planened in such a way that optimum results are produced for the utmost satisfaction of the customers.<p>
+                  <p>The projects are planned in such a way that optimum results are produced for the utmost satisfaction of the customers.<p>
                </div>
             </div><!-- /.span3 -->
             <div class="span3">
@@ -127,7 +127,7 @@
                      </div>
                   </div>
                   <h3><a href="#">PROFESSIONAL DESIGN</a></h3>
-                  <p>We provide professional designs for our customers.</p>
+                  <p>We provide professional designs for our customers. Yes, yes, we are 100% professional.</p>
                </div>
             </div><!-- /.span3 -->
             <div class="span3">
