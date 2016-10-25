@@ -113,7 +113,7 @@
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="www.facebook.com/surakshit.kumar"><i class="icons-facebook"></i></a></li>
-                  <li><a href="#"><i class="icons-twitter"></i></a></li>
+                  <li><a href="https://in.linkedin.com/in/surakshit-kumar-737745113"><i class="icons-linkedin"></i></a></li>
                  
                 </ul>
                 <div class="clearfix"></div>
@@ -131,8 +131,8 @@
                   <p class="position"> Chief Operating Officer</p>
                 </div>
                 <ul class="socials unstyled">
-                  <li><a href="#"><i class="icons-facebook"></i></a></li>
-                  <li><a href="#"><i class="icons-twitter"></i></a></li>
+                  <li><a href="https://www.facebook.com/kunalcoolboy.hbk"><i class="icons-facebook"></i></a></li>
+                  <li><a href="https://in.linkedin.com/in/kunal-dhariwal-876458b2"><i class="icons-linkedin"></i></a></li>
                 
                 </ul>
                 <div class="clearfix"></div>
@@ -151,7 +151,7 @@
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
-                  <li><a href="#"><i class="icons-twitter"></i></a></li>
+                  <li><a href="#"><i class="icons-linkedin"></i></a></li>
                  
                 </ul>
                 <div class="clearfix"></div>
@@ -182,7 +182,7 @@
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
-                  <li><a href="#"><i class="icons-twitter"></i></a></li>
+                  <li><a href="#"><i class="icons-linkedin"></i></a></li>
                  
                 </ul>
                 <div class="clearfix"></div>
@@ -201,7 +201,7 @@
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
-                  <li><a href="#"><i class="icons-twitter"></i></a></li>
+                  <li><a href="#"><i class="icons-linkedin"></i></a></li>
                 
                 </ul>
                 <div class="clearfix"></div>
@@ -220,7 +220,7 @@
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
-                  <li><a href="#"><i class="icons-twitter"></i></a></li>
+                  <li><a href="#"><i class="icons-linkedin"></i></a></li>
                  
                 </ul>
                 <div class="clearfix"></div>
@@ -239,7 +239,7 @@
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
-                  <li><a href="#"><i class="icons-twitter"></i></a></li>
+                  <li><a href="#"><i class="icons-linkedin"></i></a></li>
               
                 </ul>
                 <div class="clearfix"></div>
@@ -258,7 +258,7 @@
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
-                  <li><a href="#"><i class="icons-twitter"></i></a></li>
+                  <li><a href="#"><i class="icons-linkedin"></i></a></li>
                 </ul>
                 <div class="clearfix"></div>
               </div><!-- /.team -->
@@ -276,30 +276,30 @@
               <h3 class="title">KNOWLEDGE</h3>
               <div class="spacer small"></div>
               <div class="progress-single">
-                <div class="name">ADOBE PHOTOSHOP</div>
+                <div class="name">WEB DEVELOPMENT</div>
                 <div class="perc">92%</div>
                 <div class="progress-bar" data-percent="92" data-waypoint-active="yes">
                   <div class="progress-animate"></div>
                 </div>
               </div><!-- /.progress-single -->
               <div class="progress-single">
-                <div class="name">ADOBE ILLUSTRATOR</div>
-                <div class="perc">70%</div>
-                <div class="progress-bar" data-percent="70" data-waypoint-active="yes">
+                <div class="name">GRAPHIC DESIGNS</div>
+                <div class="perc">82%</div>
+                <div class="progress-bar" data-percent="82" data-waypoint-active="yes">
                   <div class="progress-animate"></div>
                 </div>
               </div><!-- /.progress-single -->
               <div class="progress-single">
-                <div class="name">ADOBE INDESIGN</div>
-                <div class="perc">88%</div>
-                <div class="progress-bar" data-percent="88" data-waypoint-active="yes">
+                <div class="name">DIGITAL MARKETING</div>
+                <div class="perc">81%</div>
+                <div class="progress-bar" data-percent="81" data-waypoint-active="yes">
                   <div class="progress-animate"></div>
                 </div>
               </div><!-- /.progress-single -->
               <div class="progress-single">
-                <div class="name">WACOM</div>
-                <div class="perc">75%</div>
-                <div class="progress-bar" data-percent="75" data-waypoint-active="yes">
+                <div class="name">CUSTOMIZED PRINTING</div>
+                <div class="perc">85%</div>
+                <div class="progress-bar" data-percent="85" data-waypoint-active="yes">
                   <div class="progress-animate"></div>
                 </div>
               </div><!-- /.progress-single -->
@@ -311,13 +311,13 @@
   
 
    <!-- Socials -->
-   <section class="section social-section" style="padding: 50px 0; background-color: #d9dff2">
+    <section class="section social-section" style="padding: 50px 0; background: #d9dff2">
       <div class="container">
          <div class="row">
             <div class="span12">
-               <div class="socials-list Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0" data-animation-offset="75%">
+               <div class="socials-list Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0.5s" data-animation-offset="90%">
                   <div class="follow-us">
-                   <center> <h2><strong>Follow Us</strong></h2></center> 
+                     <center><h2><strong>Follow Us</strong></h2></center>
                   </div>
                   <div class="social-icons">
                      <a class="iconwrap" href="#">
@@ -334,14 +334,14 @@
                            </div>
                         </div>
                      </a>
- <a class="iconwrap" href="https://www.youtube.com/channel/UCWnwjz_S9RTms3K10NdkyTA">
+                         <a class="iconwrap" href="https://www.youtube.com/channel/UCWnwjz_S9RTms3K10NdkyTA">
                         <div class="icon">
                            <div class="iconbg">
                               <i class="icons-youtube"></i>
                            </div>
                         </div>
                      </a>
-                    
+                     
                      <a class="iconwrap" href="https://plus.google.com/u/0/105532434800273536097">
                         <div class="icon">
                            <div class="iconbg">
@@ -349,8 +349,7 @@
                            </div>
                         </div>
                      </a>
-                     
-                  </div>
+                     </div>
                </div><!-- /.socials-list -->
             </div><!-- /.span12 -->
          </div><!-- /.row -->
