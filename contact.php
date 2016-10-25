@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
    <meta charset="utf-8">
-   <title>HashInclude | Your Web Developer</title>
+   <title>HashInclude | Remember The Name</title>
    <?php 
 		$number = rand(1, 10);
 	?>
@@ -132,8 +132,8 @@
             <div class="span3 Hashinc-animation" data-animation="fadeInRight" data-animation-delay="0" data-animation-offset="75%">
                <h3 class="title">INFORMATION</h3>
                <ul class="information unstyled">
-                  <li class="road">Chennai - 96, <br>India</li>
-                  <li class="phone">+91 917 6156 512 <br>+91 984 0357 517</li>
+                  <li class="road"> INCUBATED AT <br> Hindustan University, <br >padur, chennai-603103 <br>India</li>
+                  <li class="phone">+91 8122766765 <br>+91 9840357517</li>
                   <li class="email">hashinc16@gmail.com</li>
                </ul>
             </div><!-- /.span3 -->
