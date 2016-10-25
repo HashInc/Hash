@@ -193,7 +193,7 @@
             </div><!-- /.span6 -->
             <div class="span6">
                <div class=" Hashinc-animation" data-animation="fadeInRight" data-animation-delay="0" data-animation-offset="75%">
-                  <img src="images/responsive.png" alt="image" class="img-right">
+                  <img src="images/images.png" alt="image" class="img-right">
                </div>
             </div><!-- /.span6 -->
         </div><!-- /.row -->
