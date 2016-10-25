@@ -269,10 +269,10 @@
               <div class="spacer small"></div>
               <div class="text-block">
                 <p>The team at HashInclude is well balanced and experienced to handle project and ensure its delivery at  a timely manner.
-				Here at HashInclude we have Designers , Developers who work co-ordinating with our clients.
-				The people here are enthusiastic and optimistic which give a great quality of experience to the clients.
+				Here at HashInclude we have designers, developers and creative creatures who work in co-ordination with the clients.
+				People here are enthusiastic and optimistic which gives a great quality of experience to the clients.
 				</p>
-                <p>The skills of our team are Diversified equally so that people get a great experience from each part of project</p>
+                <p>The skills of our team is Diversified equally so that people get a great experience from each part of project</p>
               </div>
             </div><!-- /.span6 -->
             <div class="span6">
