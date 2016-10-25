@@ -101,7 +101,7 @@
             <div class="span12">
                <div class="titlebox">
                   <h2 class="subtitle text-white">Services</h2>
-                  <h1 class="maintitle text-color">A FEW INTERESTING FACTS ABOUT US</h1>
+                  <h1 class="maintitle text-color">STUFF WE DO.</h1>
                   <p class="text-white">We provide different types of services with regards to Graphics, IT solutions and Marketing.</p>
                </div>
                <div class="spacer"></div>

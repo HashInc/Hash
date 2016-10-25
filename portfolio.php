@@ -69,7 +69,7 @@
    </div>
 
    <!-- Parallax Fullwidth -->
-   <div id="page-slider" class="parallax-bg5 parallax">
+   <div id="page-slider" class="parallax-bg2 parallax">
       <div class="overlay"></div>
       <header id="header" class="header">
          <div class="header-wrap">
