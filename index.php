@@ -186,8 +186,8 @@
             <div class="span12">
                <div class="titlebox Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0" data-animation-offset="75%">
                   <h2 class="subtitle text-white">Testimonials</h2>
-                  <h3 class="maintitle text-color">WHAT OUR CUSTOMERS SAY?</h3>
-                  <p class="text-white">Nunc fermentum dapibus dolor et scelerisque. Curabitur commodo sed augue vitae auctor. Mauris lacus dui, venenatis vel molestie eu, gravida luctus lorem. Suspendisse arcu urna, viverra quis urna quis, porttitor aliquam tellus.</p>
+                  <h3 class="maintitle text-color">WHAT OUR Founders SAY?</h3>
+                  <p class="text-white">Let us see what our founders say about HashInclude.</p>
                </div>
                <div class="spacer"></div>
             </div><!-- /.span12 -->
@@ -199,72 +199,36 @@
                            <div class="person">
                               <img src="images/testimonial/1s.jpg" alt="image">
                               <div class="info">
-                                 <h3 class="name">Grace Whitman</h3>
-                                 <p class="pos">Themeforest</p>
+                                 <h3 class="name">Arihant Jain</h3>
+                                 <p class="pos">Co-Founder</p>
                               </div>
                            </div>
                            <div class="text">
-                              <blockquote>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum nisi, interdum ut nisi a, congue ultricies arcu. Vivamus sit amet erat orci. Cras congue ligula eros, eget egestas nisi gravida semper. Proin vel malesuada mauris, vitae ultricies arcu. </blockquote>
+                              <blockquote>We have started HashInclude for the small business keepers where they will make an online presence where they can showcase their products to a larger community of people and HashIncludewill always make the dreams of people come true. </blockquote>
                            </div>
                         </li>
                         <li>
                            <div class="person">
                               <img src="images/testimonial/2s.jpg" alt="image">
                               <div class="info">
-                                 <h3 class="name">Margaret Everdeen</h3>
-                                 <p class="pos">Videohive</p>
+                                 <h3 class="name">Surakshit Kumar</h3>
+                                 <p class="pos">Co-Founder</p>
                               </div>
                            </div>
                            <div class="text">
-                              <blockquote>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum nisi, interdum ut nisi a, congue ultricies arcu. Vivamus sit amet erat orci. Cras congue ligula eros, eget egestas nisi gravida semper. Proin vel malesuada mauris, vitae ultricies arcu. </blockquote>
+                              <blockquote>write some content here of own. </blockquote>
                            </div>
                         </li>
                         <li>
                            <div class="person">
                               <img src="images/testimonial/3s.jpg" alt="image">
                               <div class="info">
-                                 <h3 class="name">Grace Whitman</h3>
-                                 <p class="pos">Themeforest</p>
+                                 <h3 class="name">Kunal Dhariwal</h3>
+                                 <p class="pos">Co-Founder</p>
                               </div>
                            </div>
                            <div class="text">
-                              <blockquote>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum nisi, interdum ut nisi a, congue ultricies arcu. Vivamus sit amet erat orci. Cras congue ligula eros, eget egestas nisi gravida semper. Proin vel malesuada mauris, vitae ultricies arcu. </blockquote>
-                           </div>
-                        </li>
-                        <li>
-                           <div class="person">
-                              <img src="images/testimonial/4s.jpg" alt="image">
-                              <div class="info">
-                                 <h3 class="name">Grace Whitman</h3>
-                                 <p class="pos">Themeforest</p>
-                              </div>
-                           </div>
-                           <div class="text">
-                              <blockquote>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum nisi, interdum ut nisi a, congue ultricies arcu. Vivamus sit amet erat orci. Cras congue ligula eros, eget egestas nisi gravida semper. Proin vel malesuada mauris, vitae ultricies arcu. </blockquote>
-                           </div>
-                        </li>
-                        <li>
-                           <div class="person">
-                              <img src="images/testimonial/5.jpg" alt="image">
-                              <div class="info">
-                                 <h3 class="name">Margaret Everdeen</h3>
-                                 <p class="pos">Videohive</p>
-                              </div>
-                           </div>
-                           <div class="text">
-                              <blockquote>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum nisi, interdum ut nisi a, congue ultricies arcu. Vivamus sit amet erat orci. Cras congue ligula eros, eget egestas nisi gravida semper. Proin vel malesuada mauris, vitae ultricies arcu. </blockquote>
-                           </div>
-                        </li>
-                        <li>
-                           <div class="person">
-                              <img src="images/testimonial/6s.jpg" alt="image">
-                              <div class="info">
-                                 <h3 class="name">Grace Whitman</h3>
-                                 <p class="pos">Themeforest</p>
-                              </div>
-                           </div>
-                           <div class="text">
-                              <blockquote>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum nisi, interdum ut nisi a, congue ultricies arcu. Vivamus sit amet erat orci. Cras congue ligula eros, eget egestas nisi gravida semper. Proin vel malesuada mauris, vitae ultricies arcu. </blockquote>
+                              <blockquote>write some content here of own. </blockquote>
                            </div>
                         </li>
                      </ul>
