@@ -113,16 +113,14 @@
                      <input type="text" value="" tabindex="1" placeholder="Name" name="name" id="name" required>
                   </div>
                   <div class="input-wrap phone">
-                     <input type="text" value="" tabindex="1" placeholder="Phone" name="phone" id="name" required>
+                     <input type="text" value="" tabindex="1" placeholder="Phone" name="phone" id="phone" required>
                   </div>
                    <div class="input-wrap email">
                      <input type="email" value="" tabindex="1" placeholder="E-mail" name="email" id="email" required>
                   </div>
-                  <div class="input-wrap subject">
-                     <input type="text" value="" tabindex="1" placeholder="Subject" name="subject" id="name" required>
-                  </div>
+                  
                   <div class="textarea-wrap">
-                     <textarea class="text" tabindex="3" placeholder="Message" name="message" id="message" required></textarea>
+                     <textarea class="text" value="" tabindex="3" placeholder="Message" name="message" id="message" required></textarea>
                   </div>
                   <div class="submit-wrap">
                      <input type="submit" name="submit" class="btn-Hashinc black">
@@ -133,7 +131,7 @@
                <h3 class="title">INFORMATION</h3>
                <ul class="information unstyled">
                   <li class="road"> INCUBATED AT <br> Hindustan University, <br >padur, chennai-603103 <br>India</li>
-                  <li class="phone">+91 8122766765 <br>+91 9840357517</li>
+                  <li class="phone">+91 9884777275 <br>+91 9840357517</li>
                   <li class="email">hashinc16@gmail.com</li>
                </ul>
             </div><!-- /.span3 -->
