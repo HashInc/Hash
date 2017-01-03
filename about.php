@@ -82,8 +82,8 @@
 			   </div><!-- /.span6 -->
 			   <div class="span6 breadcrumbs">
 					<ul>
-					<li><a href="#">Home </a>/</li>
-					<li><a href="#">About </a>/</li>
+					<li><a href="index.php">Home </a>/</li>
+					<li><a href="about.php">About </a>/</li>
 					</ul>
 			   </div><!-- /.span6 -->
          </div><!-- /.page-title-wrapper -->
