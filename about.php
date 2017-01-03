@@ -177,32 +177,13 @@
                   </div>
                 </div>
                 <div class="info">
-                  <h5 class="name">Manjunath Poilath</h5>
-                  <p class="position">Chief Technology Officer</p>
+                  <h5 class="name">Akash Sanjeev</h5>
+                  <p class="position">Chief Designing Officer</p>
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
                   <li><a href="#"><i class="icons-linkedin"></i></a></li>
                  
-                </ul>
-                <div class="clearfix"></div>
-              </div><!-- /.team -->
-            </div><!-- /.span3 -->
-            <div class="span3">
-              <div class="team Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0.2s" data-animation-offset="75%">
-                <div class="photo">
-                  <div class="overlays">
-                    <img src="images/team/2.jpg" alt="image">
-                  </div>
-                </div>
-                <div class="info">
-                  <h5 class="name">SriRam Ramakrishna</h5>
-                  <p class="position">Chief Finance Officer</p>
-                </div>
-                <ul class="socials unstyled">
-                  <li><a href="#"><i class="icons-facebook"></i></a></li>
-                  <li><a href="#"><i class="icons-linkedin"></i></a></li>
-                
                 </ul>
                 <div class="clearfix"></div>
               </div><!-- /.team -->
@@ -215,8 +196,8 @@
                   </div>
                 </div>
                 <div class="info">
-                  <h5 class="name">Sundaram Ramachandran</h5>
-                  <p class="position">Chief Marketing Officer</p>
+                  <h5 class="name">Sandesh Solanki</h5>
+                  <p class="position">Designing Manager</p>
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
@@ -241,24 +222,6 @@
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
                   <li><a href="#"><i class="icons-linkedin"></i></a></li>
               
-                </ul>
-                <div class="clearfix"></div>
-              </div><!-- /.team -->
-            </div><!-- /.span3 -->
-            <div style="margin-left: 480px;margin-top:30px;" class="span3">
-              <div class="team Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0.6s" data-animation-offset="75%">
-                <div class="photo">
-                  <div class="overlays">
-                    <img src="images/team/4.jpg" alt="image">
-                  </div>
-                </div>
-                <div class="info">
-                  <h5 class="name">Sandesh Jain</h5>
-                  <p class="position">Designing Manager</p>
-                </div>
-                <ul class="socials unstyled">
-                  <li><a href="#"><i class="icons-facebook"></i></a></li>
-                  <li><a href="#"><i class="icons-linkedin"></i></a></li>
                 </ul>
                 <div class="clearfix"></div>
               </div><!-- /.team -->
