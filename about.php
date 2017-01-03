@@ -196,8 +196,8 @@
                   </div>
                 </div>
                 <div class="info">
-                  <h5 class="name">Sandesh Solanki</h5>
-                  <p class="position">Designing Manager</p>
+                  <h5 class="name">Sundaram Ramachandran</h5>
+                  <p class="position">Chief Marketing Officer</p>
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
@@ -215,8 +215,8 @@
                   </div>
                 </div>
                 <div class="info">
-                  <h5 class="name">Akash Sanjeev</h5>
-                  <p class="position">Chief Designing Officer</p>
+                  <h5 class="name">Sandesh Solanki</h5>
+                  <p class="position">Designing manager</p>
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
