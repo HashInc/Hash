@@ -201,7 +201,7 @@
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
-                  <li><a href="#"><i class="icons-linkedin"></i></a></li>
+                  <li><a href="https://www.linkedin.com/in/sundaram-ramachandran-67b05a108/"><i class="icons-linkedin"></i></a></li>
                  
                 </ul>
                 <div class="clearfix"></div>
