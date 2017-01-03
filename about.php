@@ -181,7 +181,7 @@
                   <p class="position">Chief Designing Officer</p>
                 </div>
                 <ul class="socials unstyled">
-                  <li><a href="#"><i class="icons-facebook"></i></a></li>
+                  <li><a href="https://www.facebook.com/akash.sanjeev.16"><i class="icons-facebook"></i></a></li>
                   <li><a href="#"><i class="icons-linkedin"></i></a></li>
                  
                 </ul>
@@ -200,7 +200,7 @@
                   <p class="position">Chief Marketing Officer</p>
                 </div>
                 <ul class="socials unstyled">
-                  <li><a href="#"><i class="icons-facebook"></i></a></li>
+                  <li><a href="https://www.facebook.com/sundaramsidharth"><i class="icons-facebook"></i></a></li>
                   <li><a href="https://www.linkedin.com/in/sundaram-ramachandran-67b05a108/"><i class="icons-linkedin"></i></a></li>
                  
                 </ul>
