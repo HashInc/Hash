@@ -219,8 +219,8 @@
                   <p class="position">Designing manager</p>
                 </div>
                 <ul class="socials unstyled">
-                  <li><a href="#"><i class="icons-facebook"></i></a></li>
-                  <li><a href="#"><i class="icons-linkedin"></i></a></li>
+                  <li><a href="https://www.facebook.com/sandesh.jain.925"><i class="icons-facebook"></i></a></li>
+                  <li><a href="https://www.linkedin.com/in/sandesh-jain-b9b574118/"><i class="icons-linkedin"></i></a></li>
               
                 </ul>
                 <div class="clearfix"></div>
