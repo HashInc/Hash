@@ -299,7 +299,7 @@
                   <a href="services.php">SERVICES</a> |
                   <a href="portfolio.php">OUR WORK</a> |
                   <a href="contact.php">CONTACT</a> |
-                  <a href="blog.php">BLOG</a>
+                  <a href="blog.php">YOUR STORE</a>
                </div>
             </div><!-- /.span12 -->
          </div><!-- /.row -->

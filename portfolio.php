@@ -409,7 +409,7 @@
                   <a href="services.php">SERVICES</a> |
                   <a href="#">OUR WORK</a> |
                   <a href="contact.php">CONTACT</a> |
-                  <a href="blog.php">BLOG</a>
+                  <a href="blog.php">YOUT STORE</a>
                </div>
             </div>
          </div><!-- /.row -->
