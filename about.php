@@ -104,7 +104,7 @@
               <div class="team Hashinc-animation" data-animation="fadeIn" data-animation-delay="0" data-animation-offset="75%">
                 <div class="photo">
                   <div class="overlays">
-                    <img src="images/team/1.jpg" alt="image">
+                    <img src="images/team/surakshit.jpg" alt="image">
                   </div>
                 </div>
                 <div class="info">
@@ -123,7 +123,7 @@
               <div class="team Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0.2s" data-animation-offset="75%">
                 <div class="photo">
                   <div class="overlays">
-                    <img src="images/team/2.jpg" alt="image">
+                    <img src="images/team/kunal.jpg" alt="image">
                   </div>
                 </div>
                 <div class="info">
@@ -142,7 +142,7 @@
               <div class="team Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0.4s" data-animation-offset="75%">
                 <div class="photo">
                   <div class="overlays">
-                    <img src="images/team/3.jpg" alt="image">
+                    <img src="images/team/arihant.jpg" alt="image">
                   </div>
                 </div>
                 <div class="info">
@@ -173,7 +173,7 @@
               <div class="team Hashinc-animation" data-animation="fadeIn" data-animation-delay="0" data-animation-offset="75%">
                 <div class="photo">
                   <div class="overlays">
-                    <img src="images/team/2.jpg" alt="image">
+                    <img src="images/team/akash.jpg" alt="image">
                   </div>
                 </div>
                 <div class="info">
@@ -192,7 +192,7 @@
               <div class="team Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0.4s" data-animation-offset="75%">
                 <div class="photo">
                   <div class="overlays">
-                    <img src="images/team/3.jpg" alt="image">
+                    <img src="images/team/sundar.jpg" alt="image">
                   </div>
                 </div>
                 <div class="info">
@@ -211,7 +211,7 @@
               <div class="team Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0.6s" data-animation-offset="75%">
                 <div class="photo">
                   <div class="overlays">
-                    <img src="images/team/4.jpg" alt="image">
+                    <img src="images/team/sandesh.jpg" alt="image">
                   </div>
                 </div>
                 <div class="info">

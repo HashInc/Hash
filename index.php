@@ -197,7 +197,7 @@
                      <ul class="slides">
                         <li>
                            <div class="person">
-                              <img src="images/testimonial/1s.jpg" alt="image">
+                              <img src="images/testimonial/arihant.jpg" alt="image">
                               <div class="info">
                                  <h3 class="name">Arihant Jain</h3>
                                  <p class="pos">CCO</p>
@@ -209,7 +209,7 @@
                         </li>
                         <li>
                            <div class="person">
-                              <img src="images/testimonial/2s.jpg" alt="image">
+                              <img src="images/testimonial/surakshit.jpg" alt="image">
                               <div class="info">
                                  <h3 class="name">Surakshit Kumar</h3>
                                  <p class="pos">CEO</p>
@@ -221,7 +221,7 @@
                         </li>
                         <li>
                            <div class="person">
-                              <img src="images/testimonial/3s.jpg" alt="image">
+                              <img src="images/testimonial/kunal.jpg" alt="image">
                               <div class="info">
                                  <h3 class="name">Kunal Dhariwal</h3>
                                  <p class="pos">COO</p>
