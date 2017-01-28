@@ -204,7 +204,7 @@
                               </div>
                            </div>
                            <div class="text">
-                              <blockquote>We have started HashInclude for the small business keepers where they will make an online presence where they can showcase their products to a larger community of people and HashIncludewill always make the dreams of people come true. </blockquote>
+                              <blockquote>We have started HashInclude for the small business keepers where they will make an online presence where they can showcase their products to a larger community of people and HashInclude will always make the dreams of people come true. </blockquote>
                            </div>
                         </li>
                         <li>
@@ -228,7 +228,7 @@
                               </div>
                            </div>
                            <div class="text">
-                              <blockquote> Life’s gonna hit you hard, it’s gonna hit you even more harder if you don’t get back up after a fall. Life’s all about not giving up. You lose, when you give up on your dreams. You win, when you give up the fear that’s holding you back. </blockquote>
+                              <blockquote> Our main aim is to help those small organisations who are unable to cope up in online business, We are a team with creative and colorful minds. Whatever is colorful, is beautiful, just like our work. </blockquote>
                            </div>
                         </li>
                      </ul>
