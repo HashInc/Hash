@@ -137,8 +137,8 @@
                         <i class="icons-pen"></i>
                      </div>
                   </div>
-                  <h3><a href="#">ELEGANT DESIGN PROJECT</a></h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis fermentumurna vitae.</p>
+                  <h3><a href="#"> CREATIVELY INSANE </a></h3>
+                  <p> Creativity is the best domain upon which we work, Try us and you will never regret.</p>
                </div>
             </div><!-- /.span3 -->
             <div class="span3">
@@ -149,7 +149,7 @@
                      </div>
                   </div>
                   <h3><a href="#">A THOUGHTFUL IDEA</a></h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis fermentumurna vitae.</p>
+                  <p> Your idea, our creativity. best combination, right?.</p>
                </div>
             </div><!-- /.span3 -->
          </div>
