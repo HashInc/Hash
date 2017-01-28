@@ -137,7 +137,7 @@
                         <i class="icons-pen"></i>
                      </div>
                   </div>
-                  <h3><a href="#"> CREATIVELY INSANE </a></h3>
+                  <h3><a href="#"> CREATIVE ARTWORK </a></h3>
                   <p> Creativity is the best domain upon which we work, Try us and you will never regret.</p>
                </div>
             </div><!-- /.span3 -->
