@@ -131,8 +131,8 @@
                <h3 class="title">INFORMATION</h3>
                <ul class="information unstyled">
                   <li class="road"> INCUBATED AT <br> Hindustan University, <br >padur, chennai-603103 <br>India</li>
-                  <li class="phone">+91 9884777275 <br>+91 9840357517</li>
-                  <li class="email">hashinc16@gmail.com</li>
+                  <li class="phone">+91 9884777275 <br> +91 8122766765 <br>+91 9840357517</li>
+                  <li class="email">support@hashinc.in</li>
                </ul>
             </div><!-- /.span3 -->
             <div class="span3 Hashinc-animation" data-animation="fadeInRight" data-animation-delay="0" data-animation-offset="75%">

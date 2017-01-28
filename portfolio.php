@@ -137,7 +137,7 @@
          <ul class="project-filter v2 inline">
             <li class="active"><a data-filter="*" href="#">All</a></li>
             <li><a data-filter=".branding" href="#">Branding</a></li>
-            <li><a data-filter=".editorial" href="#">Editorial</a></li>
+            <li><a data-filter=".editorial" href="#">Graphic Designs</a></li>
             <li><a data-filter=".illustration" href="#">Illustration</a></li>
             <li><a data-filter=".web-design" href="#">Web Design</a></li>
          </ul><!-- /.project-filter -->
@@ -169,7 +169,7 @@
                      <div class="opacity"></div>
                      <div class="detail">
                         <div class="text">
-                           <h3 class="project-title"><a href="portfolio-single.php">Editorial 03</a></h3>
+                           <h3 class="project-title"><a href="portfolio-single.php">Graphic Designs</a></h3>
                            <p>28 December 2014</p>
                         </div>
                         <div class="link">
