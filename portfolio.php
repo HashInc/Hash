@@ -127,7 +127,7 @@
                <div class="titlebox">
                   <h2 class="subtitle text-white">Projects</h2>
                   <h1 class="maintitle text-color">EXPLORE OUR WORK</h1>
-                  <p class="text-white">Nullam viverra, arcu vel porta fermentum, mauris metus convallis quam, eget varius mauris elit quis quam. Etiam in arcu in enim dictum auctor. Nunc laoreet mi fringilla odio ultricies, laoreet cursus lectus malesuada.</p>
+                  <p class="text-white">Here are some highlights of our work. We always try to be creative, different and obviously impressive.</p>
                </div>
                <div class="spacer"></div>
             </div><!-- /.span12 -->

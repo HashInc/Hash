@@ -106,12 +106,12 @@
    	<div class="container page-title">
    		<div class="page-title-wrapper">
 			   <div class="span6 page-title-captions">
-			   	<h1>Blog</h1>
+			   	<h1>HashCart</h1>
 			   </div><!-- /.span6 -->
 			   <div class="span6 breadcrumbs">
 					<ul>
 					<li><a href="index.php">Home </a>/</li>
-					<li><a href="blog.php">Blog </a>/</li>
+					<li><a href="blog.php">Your store </a>/</li>
 					</ul>
 			   </div><!-- /.span6 -->
          </div>
@@ -124,142 +124,11 @@
          <div class="row">
             <div class="span12">
                <div class="titlebox Hash Include-animation" data-animation="fadeInUp" data-animation-delay="0.6s" data-animation-offset="75%">
-                  <h2 class="subtitle text-white">Blog</h2>
-                  <h1 class="maintitle text-color">GRAPHICAL NEWS</h1>
-                  <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dapibus lorem a ipsum tempus, at molestie erat pellentesque. Nulla non diam mollis, luctus orci mattis, ullamcorper massa.</p>
+                  <h2 class="subtitle text-white">Dream | Create | Inspire</h2>
+                  <h1 class="maintitle text-color"> Surprise, surprise! Something big is coming out soon!</h1>
+     
                </div>
-               <div class="spacer"></div>
-            </div><!-- /.span12 -->
-         </div><!-- /.row -->
-      </div><!-- /.container -->
-      <div class="container">
-         <div class="posts-wrap">
-            <ul class="post-filter v2 inline">
-               <li class="active"><a data-filter="*" href="#">All</a></li>
-               <li><a data-filter=".popular" href="#">Popular</a></li>
-               <li><a data-filter=".branding" href="#">Branding</a></li>
-               <li><a data-filter=".editorial" href="#">Editorial</a></li>
-               <li><a data-filter=".illustration" href="#">Illustration</a></li>
-               <li><a data-filter=".webdesign" href="#">Web Design</a></li>
-            </ul><!-- /.post-filter -->
-            <div class="posts-container Hash Include-animation" data-animation="fadeInUp" data-animation-delay="0" data-animation-offset="75%">
-               <div class="item post-item popular editorial">
-                  <div class="featured-post">
-                    <a href="blog-single.php">
-                      <div class="overlay">
-                        <div class="link">
-                          <div class="icon-bg"></div>
-                          <div class="icon">
-                             <i class="icons-link"></i>
-                          </div>
-                        </div>
-                      </div>
-                      <img src="images/blog/g1.jpg" alt="image">
-                    </a>
-                  </div>
-                  <div class="content-post">
-                    <h2><a href="blog-single.php">LOREM IPSUM DOLAR SIT AMET</a></h2>
-                    <p>Nam sed leo faucibus, pellentesque lacus ultrices, ultricies orci. Phasellus sagittis massa vel turpis convallis viverra.</p>
-                  </div>
-               </div><!-- /.post-item -->
-               <div class="item post-item webdesign">
-                  <div class="featured-post">
-                    <a href="blog-single.php">
-                      <div class="overlay">
-                        <div class="link">
-                          <div class="icon-bg"></div>
-                          <div class="icon">
-                             <i class="icons-link"></i>
-                          </div>
-                        </div>
-                      </div>
-                      <img src="images/blog/g2.jpg" alt="image">
-                    </a>
-                  </div>
-                  <div class="content-post">
-                    <h2><a href="blog-single.php">LOREM IPSUM DOLAR SIT AMET</a></h2>
-                    <p>Nam sed leo faucibus, pellentesque lacus ultrices, ultricies orci. Phasellus sagittis massa vel turpis convallis viverra.</p>
-                  </div>
-               </div><!-- /.post-item -->
-               <div class="item post-item w2 branding illustration">
-                  <div class="featured-post">
-                    <a href="blog-single.php">
-                      <div class="overlay">
-                        <div class="link">
-                          <div class="icon-bg"></div>
-                          <div class="icon">
-                             <i class="icons-link"></i>
-                          </div>
-                        </div>
-                      </div>
-                      <img src="images/blog/g3.jpg" alt="image">
-                    </a>
-                  </div>
-                  <div class="content-post">
-                    <h2><a href="blog-single.php">LOREM IPSUM DOLAR SIT AMET</a></h2>
-                    <p>Nam sed leo faucibus, pellentesque lacus ultrices, ultricies orci. Phasellus sagittis massa vel turpis convallis viverra. Duis ut viverra nisl. In hac habitasse platea dictumst. Sed a molestie tellus. Etiam fringilla mi ipsum, et commodo massa dapibus sit amet.</p>
-                  </div>
-               </div><!-- /.post-item -->
-               <div class="item post-item w2 branding illustration popular">
-                  <div class="featured-post">
-                    <a href="blog-single.php">
-                      <div class="overlay">
-                        <div class="link">
-                          <div class="icon-bg"></div>
-                          <div class="icon">
-                             <i class="icons-link"></i>
-                          </div>
-                        </div>
-                      </div>
-                      <img src="images/blog/g4.jpg" alt="image">
-                    </a>
-                  </div>
-                  <div class="content-post">
-                    <h2><a href="blog-single.php">LOREM IPSUM DOLAR SIT AMET</a></h2>
-                    <p>Nam sed leo faucibus, pellentesque lacus ultrices, ultricies orci. Phasellus sagittis massa vel turpis convallis viverra. Duis ut viverra nisl. In hac habitasse platea dictumst. Sed a molestie tellus. Etiam fringilla mi ipsum, et commodo massa dapibus sit amet.</p>
-                  </div>
-               </div><!-- /.post-item -->
-               <div class="item post-item editorial illustration">
-                  <div class="featured-post">
-                    <a href="blog-single.php">
-                      <div class="overlay">
-                        <div class="link">
-                          <div class="icon-bg"></div>
-                          <div class="icon">
-                             <i class="icons-link"></i>
-                          </div>
-                        </div>
-                      </div>
-                      <img src="images/blog/g5.jpg" alt="image">
-                    </a>
-                  </div>
-                  <div class="content-post">
-                    <h2><a href="blog-single.php">LOREM IPSUM DOLAR SIT AMET</a></h2>
-                    <p>Nam sed leo faucibus, pellentesque lacus ultrices, ultricies orci. Phasellus sagittis massa vel turpis convallis viverra.</p>
-                  </div>
-               </div><!-- /.post-item -->
-               <div class="item post-item editorial webdesign illustration">
-                  <div class="featured-post">
-                    <a href="blog-single.php">
-                      <div class="overlay">
-                        <div class="link">
-                          <div class="icon-bg"></div>
-                          <div class="icon">
-                             <i class="icons-link"></i>
-                          </div>
-                        </div>
-                      </div>
-                      <img src="images/blog/g6.jpg" alt="image">
-                    </a>
-                  </div>
-                  <div class="content-post">
-                    <h2><a href="blog-single.php">LOREM IPSUM DOLAR SIT AMET</a></h2>
-                    <p>Nam sed leo faucibus, pellentesque lacus ultrices, ultricies orci. Phasellus sagittis massa vel turpis convallis viverra.</p>
-                  </div>
-               </div><!-- /.post-item -->
-            </div><!-- /.posts-container -->
-           <div class="loadmore-btn loadmore-post">
-              <a href="#" class="btn-Hash Include border-type">LOAD MORE</a>
+               
            </div><!-- /.loadmore-btn -->
          </div><!-- /.posts-wrap -->
       </div><!-- /.container -->
