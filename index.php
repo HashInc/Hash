@@ -68,7 +68,7 @@
                            <li><a href="services.php">Services</a></li>
                            <li><a href="portfolio.php">Our Work</a></li>
                            <li><a href="contact.php">Contact</a></li>
-                           <li><a href="blog.php">Blog</a></li>
+                           <li><a href="blog.php">YOUR STORE</a></li>
                         </ul><!-- /.menu -->
                      </nav><!-- /nav -->
                   </div>
