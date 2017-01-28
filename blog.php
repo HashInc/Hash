@@ -111,7 +111,7 @@
 			   <div class="span6 breadcrumbs">
 					<ul>
 					<li><a href="index.php">Home </a>/</li>
-					<li><a href="blog.php">Your store </a>/</li>
+					<li><a href="blog.php">Your Store </a>/</li>
 					</ul>
 			   </div><!-- /.span6 -->
          </div>
