@@ -149,7 +149,7 @@
                      </div>
                   </div>
                   <h3><a href="#">A THOUGHTFUL IDEA</a></h3>
-                  <p> Your idea, our creativity. best combination, right?.</p>
+                  <p> Your idea, our creativity. Best combination, right?.</p>
                </div>
             </div><!-- /.span3 -->
          </div>
