@@ -186,7 +186,7 @@
             <div class="span12">
                <div class="titlebox Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0" data-animation-offset="75%">
                   <h2 class="subtitle text-white">Testimonials</h2>
-                  <h3 class="maintitle text-color">What our founders day?</h3>
+                  <h3 class="maintitle text-color">What our founders say?</h3>
                   <p class="text-white">Let us see what our founders say about HashInclude.</p>
                </div>
                <div class="spacer"></div>
@@ -228,7 +228,7 @@
                               </div>
                            </div>
                            <div class="text">
-                              <blockquote>write some content here of own. </blockquote>
+                              <blockquote> Do whatever makes you happy </blockquote>
                            </div>
                         </li>
                      </ul>
