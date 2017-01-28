@@ -83,7 +83,7 @@
             <h1>WE ARE DEVELOPERS.</h1>
             <h1>WE ARE DESIGNERS.</h1>
             <h1>WE ARE SOCIALITES.</h1>
-            <h1>WE ARE MARKETING.</h1>
+            <h1>WE ARE MARKETERS.</h1>
          </div>
          <ul class="ideas inline">
             <li> Creative</li>
