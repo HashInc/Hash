@@ -200,7 +200,7 @@
                               <img src="images/testimonial/1s.jpg" alt="image">
                               <div class="info">
                                  <h3 class="name">Arihant Jain</h3>
-                                 <p class="pos">Co-Founder</p>
+                                 <p class="pos">CCO</p>
                               </div>
                            </div>
                            <div class="text">
@@ -212,7 +212,7 @@
                               <img src="images/testimonial/2s.jpg" alt="image">
                               <div class="info">
                                  <h3 class="name">Surakshit Kumar</h3>
-                                 <p class="pos">Co-Founder</p>
+                                 <p class="pos">CEO</p>
                               </div>
                            </div>
                            <div class="text">
@@ -224,11 +224,11 @@
                               <img src="images/testimonial/3s.jpg" alt="image">
                               <div class="info">
                                  <h3 class="name">Kunal Dhariwal</h3>
-                                 <p class="pos">Co-Founder</p>
+                                 <p class="pos">COO</p>
                               </div>
                            </div>
                            <div class="text">
-                              <blockquote> Do whatever makes you happy </blockquote>
+                              <blockquote> Life’s gonna hit you hard, it’s gonna hit you even more harder if you don’t get back up after a fall. Life’s all about not giving up. You lose, when you give up on your dreams. You win, when you give up the fear that’s holding you back. </blockquote>
                            </div>
                         </li>
                      </ul>
