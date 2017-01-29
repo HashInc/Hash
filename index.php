@@ -90,9 +90,7 @@
             <li> Trustworthy</li>
          </ul>
       </div>
-      <div class="arrow"><i class="icons-angle-down"></i></div>
-      <a class="arrow_bg btn-top" href="#about-section"></a>
-   </div>
+
    <section class="section about-section">
       <div class="container">
          <div class="row">
