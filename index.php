@@ -93,7 +93,7 @@
          </ul>
       </div><!-- /.content -->
       <div class="arrow"><i class="icons-angle-down"></i></div>
-      <a class="arrow_bg btn-top" href="#projects"></a>
+      <a class="arrow_bg btn-top" href="#"></a>
    </div>
 
    <!-- About -->
