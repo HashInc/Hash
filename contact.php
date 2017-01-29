@@ -12,7 +12,7 @@
 	position: fixed;
 	left: 0px;
 	top: 0px;
-	width: 100%;
+	width: 100%;`
 	height: 100%;
 	z-index: 9999;
 	background: url("images/loader-64x/Preloader_<?php echo $number ?>.gif") center no-repeat #fff;
@@ -67,7 +67,7 @@
                            <li><a href="services.php">Services</a></li>
                            <li><a href="portfolio.php">Our Work</a></li>
                            <li><a class="active" href="#">Contact</a></li>
-                           <li><a href="blog.php">YOUR STORE</a></li>
+                           <li><a href="store.php">YOUR STORE</a></li>
                         </ul>
                      </nav>
                   </div>
@@ -201,7 +201,7 @@
                   <a href="services.php">SERVICES</a> |
                   <a href="portfolio.php">OUR WORK</a> |
                   <a href="#">CONTACT</a> |
-                  <a href="blog.php">YOUR STORE</a>
+                  <a href="store.php">YOUR STORE</a>
                </div>
             </div><!-- /.span12 -->
          </div><!-- /.row -->

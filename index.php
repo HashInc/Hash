@@ -68,7 +68,7 @@
                            <li><a href="services.php">Services</a></li>
                            <li><a href="portfolio.php">Our Work</a></li>
                            <li><a href="contact.php">Contact</a></li>
-                           <li><a href="blog.php">YOUR STORE</a></li>
+                           <li><a href="store.php">YOUR STORE</a></li>
                         </ul><!-- /.menu -->
                      </nav><!-- /nav -->
                   </div>
@@ -299,7 +299,7 @@
                   <a href="services.php">SERVICES</a> |
                   <a href="portfolio.php">OUR WORK</a> |
                   <a href="contact.php">CONTACT</a> |
-                  <a href="blog.php">YOUR STORE</a>
+                  <a href="store.php">YOUR STORE</a>
                </div>
             </div><!-- /.span12 -->
          </div><!-- /.row -->
