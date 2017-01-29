@@ -39,13 +39,11 @@
                   <li class="email"><a href="mailto:support@hashinc.in">support@hashinc.in</a></li>
                   
                </ul>
-            </div><!-- /.span8 -->
+            </div>
             
-         </div><!-- /.row -->
-      </div><!-- /.containter -->
+         </div>
+      </div>
    </div>
-
-   <!-- Parallax Fullwidth -->
    <div id="top-slider" class="parallax-bg1 parallax">
       <div class="overlay"></div>
       <header id="header" class="header">
@@ -57,10 +55,10 @@
                         <a href="http://www.hashinc.in" rel="home">
                            <img src="images/logo.png" alt="Hashinc" />
                         </a>
-                     </div><!-- /.logo -->
-                  </div><!-- /.span2 -->
+                     </div>
+                  </div>
                   <div class="span10">
-                     <div class="btn-menu"></div><!-- //mobile menu button -->
+                     <div class="btn-menu"></div>
                      <nav id="mainnav" class="mainnav">
                         <ul class="menu">
                            <li><a class="active" href="#">Home</a>
@@ -69,13 +67,13 @@
                            <li><a href="portfolio.php">Our Work</a></li>
                            <li><a href="contact.php">Contact</a></li>
                            <li><a href="store.php">YOUR STORE</a></li>
-                        </ul><!-- /.menu -->
-                     </nav><!-- /nav -->
+                        </ul>
+                     </nav>
                   </div>
-               </div><!-- /.span10 -->
-            </div><!-- /.container -->
-         </div><!-- /.header-wrap -->
-      </header><!-- /header -->
+               </div>
+            </div>
+         </div>
+      </header>
 
       <div class="content">
          <div style="margin-top:60px;" class="text-scroll">
@@ -91,12 +89,10 @@
             <li> Co-operative</li>
             <li> Trustworthy</li>
          </ul>
-      </div><!-- /.content -->
+      </div>
       <div class="arrow"><i class="icons-angle-down"></i></div>
-      <a class="arrow_bg btn-top" href="#"></a>
+      <a class="arrow_bg btn-top" href="#about-section"></a>
    </div>
-
-   <!-- About -->
    <section class="section about-section">
       <div class="container">
          <div class="row">
@@ -107,7 +103,7 @@
                   <p>Our goal is first of all a good idea for the brand. Devise a strategic plan for the entire project. Good design approach in the field. Professional execution of the entire order. We do not like when our client is sad.</p>
                </div>
                <div class="spacer"></div>
-            </div><!-- /.span12 -->
+            </div>
             <div class="span3">
                <div class="iconbox Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0" data-animation-offset="75%">
                   <div class="icon">
@@ -118,7 +114,7 @@
                   <h3><a href="#">STRATEGIC ACTION PLAN</a></h3>
                   <p>The projects are planned in such a way that optimum results are produced for the utmost satisfaction of the customers.<p>
                </div>
-            </div><!-- /.span3 -->
+            </div>
             <div class="span3">
                <div class="iconbox Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0.2s" data-animation-offset="75%">
                   <div class="icon">
@@ -129,7 +125,7 @@
                   <h3><a href="#">PROFESSIONAL DESIGN</a></h3>
                   <p>We provide professional designs for our customers. Yes, yes, we are 100% professional.</p>
                </div>
-            </div><!-- /.span3 -->
+            </div>
             <div class="span3">
                <div class="iconbox Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0.4s" data-animation-offset="75%">
                   <div class="icon">
@@ -140,7 +136,7 @@
                   <h3><a href="#"> CREATIVE ARTWORK </a></h3>
                   <p> Creativity is the best domain upon which we work, Try us and you will never regret.</p>
                </div>
-            </div><!-- /.span3 -->
+            </div>
             <div class="span3">
                <div class="iconbox Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0.6s" data-animation-offset="75%">
                   <div class="icon">
@@ -151,12 +147,10 @@
                   <h3><a href="#">A THOUGHTFUL IDEA</a></h3>
                   <p> Your idea, our creativity. Best combination, right?.</p>
                </div>
-            </div><!-- /.span3 -->
+            </div>
          </div>
       </div>
    </section>
-
-   <!-- Motto -->
    <section class="section motto-section parallax-bg2 parallax">
       <div class="overlay"></div>
       <div class="container">
@@ -173,13 +167,12 @@
 					 We are passionate about the future and always will try to make the future today.
 					 We work here with honest and always a fun-loving bunch.</p>
                   </div>
-               </div><!-- /.span12 -->
+               </div>
             </div>
          </div>
       </div>
    </section>
 
-   <!-- Testimonial -->
    <section class="section testimonial-section" style="background-color: #10101d;">
       <div class="container">
          <div class="row">
@@ -190,7 +183,7 @@
                   <p class="text-white">Let us see what our founders say about HashInclude.</p>
                </div>
                <div class="spacer"></div>
-            </div><!-- /.span12 -->
+            </div>
             <div class="span12">
                <div class="testimonials2" data-auto="false" data-effect="slide" data-direction="horizotal">
                   <div class="flexslider Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0" data-animation-offset="75%">
@@ -233,13 +226,11 @@
                         </li>
                      </ul>
                   </div>
-               </div><!-- /.testimonials2 -->
-            </div><!-- /.span12 -->
-         </div><!-- /.row -->
-      </div><!-- /.container -->
+               </div>
+            </div>
+         </div>
+      </div>
    </section>
-
-   <!-- Socials -->
    <section class="section social-section" style="padding: 50px 0; background: #d9dff2">
       <div class="container">
          <div class="row">
@@ -279,13 +270,13 @@
                         </div>
                      </a>
                      </div>
-               </div><!-- /.socials-list -->
-            </div><!-- /.span12 -->
-         </div><!-- /.row -->
-      </div><!-- /.container -->
+               </div>
+            </div>
+         </div>
+      </div>
    </section>
 
-   <!-- Bottom -->
+
    <div class="bottom">
       <div class="container">
          <div class="row">
@@ -301,17 +292,15 @@
                   <a href="contact.php">CONTACT</a> |
                   <a href="store.php">YOUR STORE</a>
                </div>
-            </div><!-- /.span12 -->
-         </div><!-- /.row -->
-      </div><!-- /.container -->
+            </div>
+         </div>
+      </div>
    </div>
 
-   <!-- Go Top -->
-   <a class="go-top">
+    <a class="go-top">
       <i class="icons-angle-up"></i>
    </a>
    
-   <!-- Javascript -->
    <script type="text/javascript" src="javascript/jquery.min.js"></script>
    <script type="text/javascript" src="javascript/bootstrap.min.js"></script>
    <script type="text/javascript" src="javascript/jquery.easing.js"></script>
