@@ -99,7 +99,7 @@
             <div class="span12">
                <div class="titlebox">
 				  <h2 id="success" class="subtitle text-white"></h2>
-                  <h1 class="maintitle text-color">We would like to hear from you.</h1>
+                  <h3 class="maintitle text-color">We would like to hear from you.</h3>
                </div>
                <div class="spacer"></div>
             </div>
@@ -109,7 +109,7 @@
       </div>
       <div class="container">
          <div class="row">
-             <div class="span6 Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0" data-animation-offset="75%">
+            <div class="span6 Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0" data-animation-offset="75%">
                <form class="contact-form" method="post" action="contact_db.php">
                   <div class="input-wrap name">
                      <input type="text" value="" tabindex="1" placeholder="Name" name="name" id="name" required>
@@ -120,6 +120,7 @@
                    <div class="input-wrap email">
                      <input type="email" value="" tabindex="1" placeholder="E-mail" name="email" id="email" required>
                   </div>
+                  
                   <div class="textarea-wrap">
                      <textarea class="text" value="" tabindex="3" placeholder="Message" name="message" id="message" required></textarea>
                   </div>
