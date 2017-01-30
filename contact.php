@@ -100,11 +100,11 @@
                   <h1 class="maintitle text-color">We would like to hear from you.</h1>
                </div>
                <div class="spacer"></div>
-            </div><!-- /.span12 -->
-         </div><!-- /.row -->
-      </div><!-- /.container -->
+            </div>
+         </div>
+      </div>
       <div style="width: 100%; height: 300px; margin-bottom: 60px;margin-top:-150px;">
-      </div><!-- /map -->
+      </div>
       <div class="container">
          <div class="row">
             <div class="span6 Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0" data-animation-offset="75%">
@@ -125,8 +125,8 @@
                   <div class="submit-wrap">
                      <input type="submit" name="submit" class="btn-Hashinc black">
                   </div>
-               </form><!-- /.comment-form -->
-            </div><!-- /.span6 -->
+               </form>
+            </div>
             <div class="span3 Hashinc-animation" data-animation="fadeInRight" data-animation-delay="0" data-animation-offset="75%">
                <h3 class="title">INFORMATION</h3>
                <ul class="information unstyled">
@@ -134,15 +134,13 @@
                   <li class="phone">+91 9884777275 <br> +91 8122766765 <br>+91 9840357517</li>
                   <li class="email">support@hashinc.in</li>
                </ul>
-            </div><!-- /.span3 -->
+            </div>
             <div class="span3 Hashinc-animation" data-animation="fadeInRight" data-animation-delay="0" data-animation-offset="75%">
                <h3 class="title">ALWAYS AT WORK! <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 24 / 7</h3>
-            </div><!-- /.span3 -->
-        </div><!-- /.row -->
-      </div><!-- /.container -->
+            </div>
+        </div>
+      </div>
    </section>
-
- <!-- Socials -->
    <section class="section social-section" style="padding: 50px 0; background: #d9dff2">
       <div class="container">
          <div class="row">
@@ -182,12 +180,11 @@
                         </div>
                      </a>
                      </div>
-               </div><!-- /.socials-list -->
-            </div><!-- /.span12 -->
-         </div><!-- /.row -->
-      </div><!-- /.container -->
+               </div>
+            </div>
+         </div>
+      </div>
    </section>
-   <!-- Bottom -->
    <div class="bottom">
       <div class="container">
          <div class="row">
@@ -203,17 +200,13 @@
                   <a href="#">CONTACT</a> |
                   <a href="store.php">YOUR STORE</a>
                </div>
-            </div><!-- /.span12 -->
-         </div><!-- /.row -->
-      </div><!-- /.container -->
+            </div>
+         </div>
+      </div>
    </div>
-
-   <!-- Go Top -->
    <a class="go-top">
       <i class="icons-angle-up"></i>
    </a>
-
-   <!-- Javascript -->
    <script type="text/javascript" src="javascript/jquery.min.js"></script>
    <script type="text/javascript" src="javascript/bootstrap.min.js"></script>
    <script type="text/javascript" src="javascript/jquery.easing.js"></script>
@@ -234,7 +227,6 @@
     <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
 	<script>
 		$(window).load(function() {
-		// Animate loader off screen
 		$(".se-pre-con").fadeOut("slow");;
 	});
 	</script>
@@ -257,12 +249,8 @@ function red()
     history.pushState('', document.title, window.location.pathname);
   }
 </script>
-
-<!-- Modal -->
 <div id="myModal" class="modal fade" role="dialog">
   <div class="modal-dialog">
-
-    <!-- Modal content-->
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal">&times;</button>
