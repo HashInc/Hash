@@ -22,7 +22,7 @@
    <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.css" >
    <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
    <link rel="stylesheet" type="text/css" href="stylesheets/colors/color4.css" id="colors">
-    <link rel="stylesheet" type="text/css" href="stylesheets/animate.css">
+   <link rel="stylesheet" type="text/css" href="stylesheets/animate.css">
    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,700' rel='stylesheet' type='text/css'>
    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'>
    <link href="icon/favicon.png" rel="shortcut icon">
@@ -30,7 +30,6 @@
 
 <body>
 <div class="se-pre-con"></div>
-   <!-- Top -->
    <div class="top">
       <div class="container">
          <div class="row">
@@ -318,7 +317,7 @@
    <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
 	<script>
 		$(window).load(function() {
-		// Animate loader off screen
+
 		$(".se-pre-con").fadeOut("slow");;
 	});
 	</script>
