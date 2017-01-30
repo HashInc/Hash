@@ -65,7 +65,7 @@
                            <li><a href="index.php">Home</a>
                            <li><a href="about.php">About Us</a>
                            <li><a class="active" href="#">Services</a></li>
-                           <li><a href="portfolio.php">Our Work</a></li>
+                           <li><a href="ourwork.php">Our Work</a></li>
                            <li><a href="contact.php">Contact</a></li>
                            <li><a href="store.php">YOUR STORE</a></li>
                         </ul>
@@ -260,7 +260,7 @@
                   <a href="index.php">HOME</a> |
                   <a href="about.php">ABOUT US</a> |
                   <a href="#">SERVICES</a> |
-                  <a href="portfolio.php">OUR WORK</a> |
+                  <a href="ourwork.php">OUR WORK</a> |
                   <a href="contact.php">CONTACT</a> |
                   <a href="store.php">YOUR STORE</a>
                </div>

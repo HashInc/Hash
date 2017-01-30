@@ -45,7 +45,7 @@
          </div>
       </div>
    </div>
-   <div id="page-slider" class="contactus parallax">
+   <div id="page-slider" class="parallax-bg6 parallax">
       <div class="overlay"></div>
       <header id="header" class="header">
          <div class="header-wrap">
@@ -96,7 +96,7 @@
          <div class="row">
             <div class="span12">
                <div class="titlebox">
-                  <h2 id="success" class="subtitle text-white">Contact</h2>
+                  <h2 id="success" class="subtitle text-white">!</h2>
                   <h1 class="maintitle text-color">We would like to hear from you.</h1>
                </div>
                <div class="spacer"></div>
