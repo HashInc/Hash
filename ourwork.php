@@ -382,7 +382,7 @@
                   <a href="services.php">SERVICES</a> |
                   <a href="#">OUR WORK</a> |
                   <a href="contact.php">CONTACT</a> |
-                  <a href="#">YOUT STORE</a>
+                  <a href="#">YOUR STORE</a>
                </div>
             </div>
          </div>

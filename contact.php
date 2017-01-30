@@ -59,11 +59,12 @@
                      </div>
                   </div>
                   <div class="span10">
+                  <div class="span10">
                      <div class="btn-menu"></div>
                      <nav id="mainnav" class="mainnav">
                         <ul class="menu">
                            <li><a href="index.php">Home</a></li>
-                           <li><a href="about.php">About Us</a></li>
+                           <li><a href="about.php">About Us</a>
                            <li><a href="services.php">Services</a></li>
                            <li><a href="ourwork.php">Our Work</a></li>
                            <li><a class="active" href="#">Contact</a></li>
