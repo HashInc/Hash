@@ -77,24 +77,22 @@
       </header>
    </div>
 
-   <!-- Page Title -->
+
    <section class="page-title-container">
    	<div class="container page-title">
    		<div class="page-title-wrapper">
 			   <div class="span6 page-title-captions">
 			   	<h1>Services</h1>
-			   </div><!-- /.span6 -->
+			   </div>
 			   <div class="span6 breadcrumbs">
 					<ul>
 					<li><a href="index.php">Home </a>/</li>
 					<li><a href="services.php">Services </a>/</li>
 					</ul>
-			   </div><!-- /.span6 -->
-         </div><!-- /.row -->
-      </div><!-- /container -->
+			   </div>
+         </div>
+      </div>
    </section>
-
-   <!-- Services -->
    <section class="section entry-post" style="background-color: #10101d">
       <div class="container">
          <div class="row">
@@ -105,7 +103,7 @@
                   <p class="text-white">We provide different types of services with regards to Graphics, IT solutions and Marketing.</p>
                </div>
                <div class="spacer"></div>
-            </div><!-- /.span12 -->
+            </div>
             <div class="span3">
                <div class="iconbox v2 Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0" data-animation-offset="75%">
                   <div class="icon">
@@ -116,7 +114,7 @@
                   <h3><a href="#">Web Development</a></h3>
                   <p>In this digital world everyone wants to multiply or own a business. Since half of world's population have the access the internet as per today. It is important for us to go online for our business. At HashInclude we provide web designing services and products. As per your requirements we analyze your working model and try to give the best out of it. Here at HashInclude we have professional team of people who are well versed in designing and development who can help you for this.</p>
                </div>
-            </div><!-- /.span3 -->
+            </div>
             <div class="span3">
                <div class="iconbox v2 Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0.2s" data-animation-offset="75%">
                   <div class="icon">
@@ -127,7 +125,7 @@
                   <h3><a href="#">Computer Solutions</a></h3>
                   <p>HashInclude provides technology-based business process solutions, next-gen mobility solutions. The solutions are built on proprietary industrial frameworks that significantly reduce work effort and cost while providing faster go-to-market speeds and nimble responses to market dynamics - called Platformization and product engineering services. </p>
                </div>
-            </div><!-- /.span3 -->
+            </div>
             <div class="span3">
                <div class="iconbox v2 Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0.4s" data-animation-offset="75%">
                   <div class="icon">
@@ -138,7 +136,7 @@
                   <h3><a href="#">Digital Marketing</a></h3>
                   <p> We want to know what consumers are looking for, what their values are, and how can we meet their needs. It's not just about Big Data; it's about translating that into the truth. Digital marketing campaigns are becoming more prevalent, as digital platforms are increasingly incorporated into marketing plans and as people use digital devices instead of going to physical shops. </p>
                </div>
-            </div><!-- /.span3 -->
+            </div>
             <div class="span3">
                <div class="iconbox v2 Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0.6s" data-animation-offset="75%">
                   <div class="icon">
@@ -149,7 +147,7 @@
                   <h3><a href="#"> Customized Printing</a></h3>
                   <p> We can print customized or personalized decks to suit any need, whether you'd like to commemorate an event, run a promotion, share some joy, or spread awareness of your company or cause. Want anything customized? you can contact us anytime. We do customized business cards to customized mobile cases.</p>
                </div>
-            </div><!-- /.span3 -->
+            </div>
             <div class="spacer"></div>
             <div class="span12">
                <div class="titlebox Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0" data-animation-offset="75%">
@@ -158,7 +156,7 @@
                   <p class="text-white"> We do much more. You can find everything just at one place. Your Convinience is ours.</p>
                </div>
                <div class="spacer"></div>
-            </div><!-- /.span12 -->
+            </div>
             <div class="span6">
                <div class="accordion Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0" data-animation-offset="75%">
                   <div class="toggle">
@@ -166,7 +164,7 @@
                      <div class="toggle-content">
                         <p> HashInclude stands for excellence in brand strategy and design. We believe that if we bring in creative thinking processes and pursue original and organic thinking, ordinary people can do extra-ordinary things. All our attitude is in our work and not necessarily in our personalities. We use semiotics to both, decode markets and consumers and encode brands through design.</p>
                      </div>
-                  </div><!-- /toggle -->
+                  </div>
                   <div class="toggle">
                      <div class="toggle-title"><span>Graphic Designs</span></div>
                      <div class="toggle-content">
@@ -176,31 +174,29 @@
 * Letter Heads
 * Business cards and much more </p>
                      </div>
-                  </div><!-- /.toggle -->
+                  </div>
                   <div class="toggle">
                      <div class="toggle-title"><span> Product Reviews </span></div>
                      <div class="toggle-content">
                         <p> We review products too, You can check out our youtube channel for exciting reviews. Tell us about a product and we will give you an awesome review of it. It's done on demand basis too. GO, GO, check out our channel.</p>
                      </div>
-                  </div><!-- /.toggle -->
+                  </div>
                   <div class="toggle">
                      <div class="toggle-title"><span>Mobile Solutions</span></div>
                      <div class="toggle-content">
                         <p> We provide solutions related to mobile too. Phone not working? we'll get it ready for you. </p>
                      </div>
-                  </div><!-- /.toggle -->
-               </div><!-- /.accordion -->
-            </div><!-- /.span6 -->
+                  </div>
+               </div>
+            </div>
             <div class="span6">
                <div class=" Hashinc-animation" data-animation="fadeInRight" data-animation-delay="0" data-animation-offset="75%">
                   <img src="images/images.png" alt="image" class="img-right">
                </div>
-            </div><!-- /.span6 -->
-        </div><!-- /.row -->
-      </div><!-- /.container -->
+            </div>
+        </div>
+      </div>
    </section>
-
- <!-- Socials -->
    <section class="section social-section" style="padding: 50px 0; background: #d9dff2">
       <div class="container">
          <div class="row">
@@ -241,14 +237,11 @@
                         </div>
                      </a>
                      </div>
-               </div><!-- /.socials-list -->
-            </div><!-- /.span12 -->
-         </div><!-- /.row -->
-      </div><!-- /.container -->
+               </div>
+            </div>
+         </div>
+      </div>
    </section>
-
-
-     <!-- Bottom -->
    <div class="bottom">
       <div class="container">
          <div class="row">
@@ -264,17 +257,14 @@
                   <a href="contact.php">CONTACT</a> |
                   <a href="store.php">YOUR STORE</a>
                </div>
-            </div><!-- /.span12 -->
-         </div><!-- /.row -->
-      </div><!-- /.container -->
+            </div>
+         </div>
+      </div>
    </div>
 
-   <!-- Go Top -->
    <a class="go-top">
       <i class="icons-angle-up"></i>
    </a>
-   
-   <!-- Javascript -->
    <script type="text/javascript" src="javascript/jquery.min.js"></script>
    <script type="text/javascript" src="javascript/bootstrap.min.js"></script>
    <script type="text/javascript" src="javascript/jquery.easing.js"></script>
@@ -293,7 +283,6 @@
     <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
 	<script>
 		$(window).load(function() {
-		// Animate loader off screen
 		$(".se-pre-con").fadeOut("slow");;
 	});
 	</script>
