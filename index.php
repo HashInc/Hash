@@ -177,7 +177,7 @@
             <div class="span12">
                <div class="titlebox Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0" data-animation-offset="75%">
                   <h2 class="subtitle text-white">THE IDEA!</h2>
-                  <h3 class="maintitle text-color">Let's hear to our Co-Founders. </h3>
+                  <h3 class="maintitle text-color">Let's hear something from our Founding Team. </h3>
                   <h6><p class="text-white">Let us see what our founders say about HashInclude.</p></h6>
                </div>
                <div class="spacer"></div>
