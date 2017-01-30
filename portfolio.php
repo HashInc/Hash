@@ -61,7 +61,7 @@
          <div class="row">
             <div class="span8">
                <ul class="contact-info inline pull-left">
-                  <li class="email"><a href="#">support@hashinc.in</a></li>
+                  <li class="email"><a href="mailto:support@hashinc.in">support@hashinc.in</a></li>
                </ul>
             </div><!-- /.span8 -->
          </div><!-- /.row -->
