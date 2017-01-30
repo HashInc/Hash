@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
 <head>
    <meta charset="utf-8">
-   <title>HashInclude | Your Web Developer</title>
+   <title>HashInclude | Remember The Name</title>
    <?php 
 		$number = rand(1, 10);
 	?>
@@ -13,7 +12,7 @@
 	position: fixed;
 	left: 0px;
 	top: 0px;
-	width: 100%;
+	width: 100%;`
 	height: 100%;
 	z-index: 9999;
 	background: url("images/loader-64x/Preloader_<?php echo $number ?>.gif") center no-repeat #fff;
@@ -22,7 +21,7 @@
    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
    <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.css" >
    <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
-   <link rel="stylesheet" type="text/css" href="stylesheets/colors/color1.css" id="colors">
+   <link rel="stylesheet" type="text/css" href="stylesheets/colors/color4.css" id="colors">
    <link rel="stylesheet" type="text/css" href="stylesheets/animate.css">
    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,700' rel='stylesheet' type='text/css'>
    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'>
@@ -93,13 +92,13 @@
          </div>
       </div>
    </section>
-   <section class="section entry-post" style="background-color: #10101d">
+    <section class="section entry-post" style="background-color: #10101d">
       <div class="container" style="margin-bottom:-550px;">
          <div class="row">
             <div class="span12">
                <div class="titlebox">
-				  <h2 id="success" class="subtitle text-white"></h2>
-                  <h3 class="maintitle text-color">We would like to hear from you.</h3>
+                  <h2 id="success" class="subtitle text-white"></h2>
+                  <h1 class="maintitle text-color">We would like to hear from you.</h1>
                </div>
                <div class="spacer"></div>
             </div>
@@ -129,7 +128,7 @@
                   </div>
                </form>
             </div>
-             <div class="span3 Hashinc-animation" data-animation="fadeInRight" data-animation-delay="0" data-animation-offset="75%">
+            <div class="span3 Hashinc-animation" data-animation="fadeInRight" data-animation-delay="0" data-animation-offset="75%">
                <h3 class="title">INFORMATION</h3>
                <ul class="information unstyled">
                   <li class="road"> INCUBATED AT <br> Hindustan University, <br >Padur, chennai-603103 <br>India</li>
