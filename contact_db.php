@@ -10,7 +10,7 @@ if(!empty($_POST))
     $name = $_POST['name'];
     $phone = $_POST['phone'];
     $email = $_POST['email'];
-    $subject = $_POST['subject'];
+   
     $message = $_POST['message'];
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
@@ -19,8 +19,8 @@ if ($conn->connect_error) {
     echo "OOPS!, We have a problem with database server";
 } 
 
-$sql = "INSERT INTO queries (name, phone, email,subject, message)
-VALUES ('$name', '$phone', '$email','$subject', '$message')";
+$sql = "INSERT INTO queries (name, phone, email, message)
+VALUES ('$name', '$phone', '$email', '$message')";
 
 if ($conn->query($sql) === TRUE) {
    header("Location:contact.php?name=$name#success");
