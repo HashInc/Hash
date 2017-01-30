@@ -1,7 +1,7 @@
     <?php
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "toor";
 $dbname = "hashinc";
 
 if(!empty($_POST))
@@ -10,7 +10,6 @@ if(!empty($_POST))
     $name = $_POST['name'];
     $phone = $_POST['phone'];
     $email = $_POST['email'];
-   
     $message = $_POST['message'];
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
