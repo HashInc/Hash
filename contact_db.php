@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "hash";
+$dbname = "hashinc";
 
 if(!empty($_POST))
 {
