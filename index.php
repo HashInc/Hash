@@ -150,7 +150,7 @@
          </div>
       </div>
    </section>
-   <section class="section motto-section parallax-bg2 parallax">
+   <section class="section motto-section parallax-bg3 parallax">
       <div class="overlay"></div>
       <div class="container">
          <div class="row">

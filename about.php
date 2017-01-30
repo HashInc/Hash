@@ -43,7 +43,7 @@
             </div>
       </div>
    </div>
-   <div id="page-slider" class="parallax-bg7 parallax">
+   <div id="page-slider" class="parallax-bg4 parallax">
       <div class="overlay"></div>
       <header id="header" class="header">
          <div class="header-wrap">
@@ -114,6 +114,7 @@
                 <ul class="socials unstyled">
                   <li><a href="https://www.facebook.com/surakshitkumar?fref=ts"><i class="icons-facebook"></i></a></li>
                   <li><a href="https://in.linkedin.com/in/surakshit-kumar-737745113"><i class="icons-linkedin"></i></a></li>
+                  <li><a href="https://twitter.com/surakshit_kumar"><i class="icons-twitter"></i></a></li>                  
                  
                 </ul>
                 <div class="clearfix"></div>

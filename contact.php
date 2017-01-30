@@ -45,7 +45,7 @@
          </div>
       </div>
    </div>
-   <div id="page-slider" class="parallax-bg7 parallax">
+   <div id="page-slider" class="contactus parallax">
       <div class="overlay"></div>
       <header id="header" class="header">
          <div class="header-wrap">
