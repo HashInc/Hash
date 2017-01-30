@@ -159,12 +159,13 @@
                   <div class="titlebox Hashinc-animation" data-animation="fadeInRight" data-animation-delay="0" data-animation-offset="55%">
                      <h2 class="subtitle text-white">Our Goal</h2>
                      <h3 class="maintitle text-color">HashInclude</h3>
-                     <p class="text-white">We at HashInclude, always work on the customer needs. 
+                     <h6><p class="text-white">We at HashInclude, always work on the customer needs. 
 					 We work smart to give the best outcome to satisfy our customer needs at a reasonable costing. 
 					 Our team is dedicated to our work and we always try to be parralel with our clients. 
 					 While design is our core-competency, Technology is what keeps giving us quantum leaps and goosebumps. 
 					 We are passionate about the future and always will try to make the future today.
 					 We work here with honest and always a fun-loving bunch.</p>
+                    </h6>
                   </div>
                </div>
             </div>
@@ -177,9 +178,9 @@
          <div class="row">
             <div class="span12">
                <div class="titlebox Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0" data-animation-offset="75%">
-                  <h2 class="subtitle text-white">Testimonials</h2>
-                  <h3 class="maintitle text-color">What our founders say?</h3>
-                  <p class="text-white">Let us see what our founders say about HashInclude.</p>
+                  <h2 class="subtitle text-white">THE IDEA!</h2>
+                  <h3 class="maintitle text-color">Let's hear to our Co-Founders. </h3>
+                  <h6><p class="text-white">Let us see what our founders say about HashInclude.</p></h6>
                </div>
                <div class="spacer"></div>
             </div>
