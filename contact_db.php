@@ -1,8 +1,8 @@
     <?php
 $servername = "localhost";
 $username = "root";
-$password = "toor";
-$dbname = "hashinc";
+$password = "";
+$dbname = "hash";
 
 if(!empty($_POST))
 {
