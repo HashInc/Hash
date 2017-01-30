@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "hashinc";
+$dbname = "hash";
 
 if(!empty($_POST))
 {
@@ -21,7 +21,7 @@ if ($conn->connect_error) {
 $sql = "INSERT INTO queries (name, phone, email, message)
 VALUES ('$name', '$phone', '$email', '$message')";
 
-if ($conn->queries ($sql) === TRUE) {
+if ($conn->query($sql) === TRUE) {
    header("Location:contact.php?name=$name#success");
 }
 
