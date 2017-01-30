@@ -21,7 +21,7 @@ if ($conn->connect_error) {
 $sql = "INSERT INTO queries (name, phone, email, message)
 VALUES ('$name', '$phone', '$email', '$message')";
 
-if ($conn->query($sql) === TRUE) {
+if ($conn->queries ($sql) === TRUE) {
    header("Location:contact.php?name=$name#success");
 }
 

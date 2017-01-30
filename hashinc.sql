@@ -26,9 +26,7 @@ SET time_zone = "+00:00";
 -- Table structure for table `queries`
 --
 
-CREATE TABLE `queries` (
-  `id` int(11) NOT NULL,
-  `Name` varchar(25) NOT NULL,
+CREATE TABLE `queries` (`Name` varchar(25) NOT NULL,
   `Phone` varchar(15) DEFAULT NULL,
   `Email` varchar(30) NOT NULL,
   `Message` text NOT NULL
