@@ -97,7 +97,7 @@
             <div class="span12">
                <div class="titlebox">
                   <h2 id="success" class="subtitle text-white">Contact</h2>
-                  <h1 class="maintitle text-color">DO YOU HAVE QUESTIONS?</h1>
+                  <h1 class="maintitle text-color">We would like to hear from you.</h1>
                </div>
                <div class="spacer"></div>
             </div><!-- /.span12 -->
