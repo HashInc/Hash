@@ -25,15 +25,14 @@
    <link rel="stylesheet" type="text/css" href="stylesheets/animate.css">
    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,700' rel='stylesheet' type='text/css'>
    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'>
-   <link href="icon/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144">
-   <link href="icon/apple-touch-icon-114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114">
-   <link href="icon/apple-touch-icon-72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72">
-   <link href="icon/apple-touch-icon-57-precomposed.png" rel="apple-touch-icon-precomposed">
    <link href="icon/favicon.png" rel="shortcut icon">
-      <script src="javascript/html5shiv.js"></script>
-      <script src="javascript/respond.min.js"></script>
+   <style>
+    #modal{
+        background-color: red;
+    }
+   </style>
 </head>
-<body>
+<body onload="red()">
    <div class="se-pre-con"></div>
    <div class="top">
       <div class="container">
@@ -42,7 +41,7 @@
                <ul class="contact-info inline pull-left">
                   <li class="email"><a href="mailto:support@hashinc.in">support@hashinc.in</a></li>
                </ul>
-            </div>
+            </div>            
          </div>
       </div>
    </div>
@@ -63,17 +62,17 @@
                      <div class="btn-menu"></div>
                      <nav id="mainnav" class="mainnav">
                         <ul class="menu">
-                           <li><a href="index.php">Home</a>
+                           <li><a href="index.php">Home</a></li>
                            <li><a href="about.php">About Us</a>
                            <li><a href="services.php">Services</a></li>
                            <li><a href="ourwork.php">Our Work</a></li>
                            <li><a class="active" href="#">Contact</a></li>
-                           <li><a href="#">Your store</a></li>
+                           <li><a href="#">YOUR STORE</a></li>
                         </ul>
                      </nav>
                   </div>
                </div>
-            </div>
+              </div>
          </div>
       </header>
    </div>
@@ -92,13 +91,13 @@
          </div>
       </div>
    </section>
-    <section class="section entry-post" style="background-color: #10101d">
+   <section class="section entry-post" style="background-color: #10101d">
       <div class="container" style="margin-bottom:-550px;">
          <div class="row">
             <div class="span12">
                <div class="titlebox">
-                  <h2 id="success" class="subtitle text-white"></h2>
-                  <h1 class="maintitle text-color">We would like to hear from you.</h1>
+                  <h2 id="success" class="subtitle text-white">CONTACT</h2>
+                  <h1 class="maintitle text-color">We would like to hear from you.</h1><br><Br><br><br><br><br><br>
                </div>
                <div class="spacer"></div>
             </div>
@@ -165,13 +164,14 @@
                            </div>
                         </div>
                      </a>
-                         <a class="iconwrap" href="https://www.youtube.com/channel/UCWnwjz_S9RTms3K10NdkyTA">
+ <a class="iconwrap" href="https://www.youtube.com/channel/UCWnwjz_S9RTms3K10NdkyTA">
                         <div class="icon">
                            <div class="iconbg">
                               <i class="icons-youtube"></i>
                            </div>
                         </div>
                      </a>
+                     
                      <a class="iconwrap" href="https://plus.google.com/u/0/105532434800273536097">
                         <div class="icon">
                            <div class="iconbg">
@@ -190,15 +190,15 @@
          <div class="row">
             <div class="span12">
                <div class="copyright pull-left">
-                  <span>HashInclude</span> 2016 | ALL RIGHTS RESERVED
+                  <span><a href="www.hashinc.in">HashInclude</a></span> &copy 2017 | ALL RIGHTS RESERVED.
                </div>
                <div class="bottom-links pull-right">
                   <a href="index.php">HOME</a> |
                   <a href="about.php">ABOUT US</a> |
                   <a href="services.php">SERVICES</a> |
-                  <a href="portfolio.php">OUR WORK</a> |
+                  <a href="ourwork.php">OUR WORK</a> |
                   <a href="#">CONTACT</a> |
-                  <a href="blog.php">BLOG</a>
+                  <a href="#">YOUR STORE</a>
                </div>
             </div>
          </div>
