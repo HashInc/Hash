@@ -20,22 +20,16 @@
 }
 </style>
 
-   <!-- Mobile Specific Metas -->
    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-   <!-- Bootstrap  -->
    <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.css" >
 
-   <!-- Theme Style -->
    <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
 
-   <!-- Colors -->
    <link rel="stylesheet" type="text/css" href="stylesheets/colors/color1.css" id="colors">
    
-   <!-- Animation Style -->
    <link rel="stylesheet" type="text/css" href="stylesheets/animate.css">
 
-   <!-- Google Fonts -->
    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,700' rel='stylesheet' type='text/css'>
    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'>
    <link href="icon/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144">
@@ -46,29 +40,28 @@
 
       <script src="javascript/html5shiv.js"></script>
       <script src="javascript/respond.min.js"></script>
-   <![endif]-->
+
 </head>
 
 <body>
-   <!-- Top -->
+
    <div class="se-pre-con"></div>
    <div class="top">
       <div class="container">
          <div class="row">
             <div class="span8">
                <ul class="contact-info inline pull-left">
-                  <li class="phone"><a href="#">+91 917 6156 512</a></li>
-                  <li class="email"><a href="#">info@yourdomain.com</a></li>
-                  <li class="skype"><a href="#">skypename</a></li>
+                  <li class="phone"><a href="#">+91 9884777275</a></li>
+                  <li class="email"><a href="mailto:support@hashinc.in">support@hashinc.in</a></li>
                </ul>
-            </div><!-- /.span8 -->
+            </div>
             
-         </div><!-- /.row -->
-      </div><!-- /.containter -->
+         </div>
+      </div>
    </div>
 
    <!-- Parallax Fullwidth -->
-   <div id="page-slider" class="parallax-bg7 parallax">
+   <div id="page-slider" class="parallax-bg6 parallax">
       <div class="overlay"></div>
       <header id="header" class="header">
          <div class="header-wrap">
@@ -79,18 +72,18 @@
                         <a href="./" rel="home">
                            <img src="images/logo.png" alt="Hashinc" />
                         </a>
-                     </div><!-- /.logo -->
-                  </div><!-- /.span2 -->
+                     </div>
+                  </div>
                   <div class="span10">
-                     <div class="btn-menu"></div><!-- //mobile menu button -->
+                     <div class="btn-menu"></div>
                      <nav id="mainnav" class="mainnav">
                         <ul class="menu">
                            <li><a href="index.php">Home</a>
                            <li><a href="about.php">About Us</a>
                            <li><a href="services.php">Services</a></li>
-                           <li><a href="portfolio.php">Our Work</a></li>
+                           <li><a href="ourwork.php">Our Work</a></li>
                            <li><a class="active" href="#">Contact</a></li>
-                           <li><a href="blog.php">Blog</a></li>
+                           <li><a href="#">Your store</a></li>
                         </ul><!-- /.menu -->
                      </nav>
                   </div><!-- /.span10 -->
