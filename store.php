@@ -64,7 +64,7 @@
                   <div class="span2">
                      <div id="logo" class="logo">
                         <a href="./" rel="home">
-                           <img src="images/logo.png" alt="Hash Include" />
+                           <img src="images/logo.png" alt="Hashinc />
                         </a>
                      </div>
                   </div>
