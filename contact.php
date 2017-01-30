@@ -59,7 +59,6 @@
                      </div>
                   </div>
                   <div class="span10">
-                  <div class="span10">
                      <div class="btn-menu"></div>
                      <nav id="mainnav" class="mainnav">
                         <ul class="menu">
