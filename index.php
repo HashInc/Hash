@@ -98,7 +98,8 @@
                <div class="titlebox">
                   <h2 class="subtitle">About</h2>
                   <h3 class="maintitle">OUR MAIN OBJECTIVE IS</h3>
-                  <p>Our goal is first of all a good idea for the brand. Devise a strategic plan for the entire project. Good design approach in the field. Professional execution of the entire order. We do not like when our client is sad.</p>
+                  <h5><p>Our goal is first of all a good idea for the brand. Devise a strategic plan for the entire project. Good design approach in the field. Professional execution of the entire order. We do not like when our client is sad.</p>
+               </h5>
                </div>
                <div class="spacer"></div>
             </div>
