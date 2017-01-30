@@ -67,7 +67,7 @@
                            <li><a href="services.php">Services</a></li>
                            <li><a class="active" href="#">Our Work</a></li>
                            <li><a href="contact.php">Contact</a></li>
-                           <li><a href="#">YOUR STORE</a></li>
+                           <li><a href="yourstore.php">YOUR STORE</a></li>
                         </ul>
                      </nav>
                   </div>
@@ -124,7 +124,7 @@
                      <div class="detail">
                         <div class="text">
                            <h3 class="project-title"><a href="portfolio-single.php">BRANDING 03</a></h3>
-                           <p>28 December 2014</p>
+                           
                         </div>
                         <div class="link">
                            <div class="icon-bg"></div>
@@ -144,7 +144,7 @@
                      <div class="detail">
                         <div class="text">
                            <h3 class="project-title">Web Design</h3>
-                           <p>28 July 2016</p>
+                          
                         </div>
                         <div class="link">
                            <div class="icon-bg"></div>
@@ -164,7 +164,7 @@
                      <div class="detail">
                         <div class="text">
                            <h3 class="project-title">Graphic Design</h3>
-                           <p>28 July 2016</p>
+                           <
                         </div>
                         <div class="link">
                            <div class="icon-bg"></div>
@@ -237,7 +237,7 @@
                   <a href="services.php">SERVICES</a> |
                   <a href="#">OUR WORK</a> |
                   <a href="contact.php">CONTACT</a> |
-                  <a href="#">YOUR STORE</a>
+                  <a href=""yourstore.php>YOUR STORE</a>
                </div>
             </div>
          </div>

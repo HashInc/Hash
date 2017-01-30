@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <head>
-
+   <!-- Basic Page Needs -->
    <meta charset="utf-8">
-
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
    <title>HashInclude | Remember The Name</title>
    <?php 
 		$number = rand(1, 10);
@@ -21,40 +21,54 @@
 }
 </style>
 
+   <!-- Mobile Specific Metas -->
    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
+   <!-- Bootstrap  -->
    <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.css" >
 
+   <!-- Theme Style -->
    <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
 
+   <!-- Colors -->
    <link rel="stylesheet" type="text/css" href="stylesheets/colors/color4.css" id="colors">
    
+   <!-- Animation Style -->
    <link rel="stylesheet" type="text/css" href="stylesheets/animate.css">
 
+   <!-- Google Fonts -->
    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,700' rel='stylesheet' type='text/css'>
    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'>
 
+   <!-- Favicon and touch icons  -->
    <link href="icon/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144">
    <link href="icon/apple-touch-icon-114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114">
    <link href="icon/apple-touch-icon-72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72">
    <link href="icon/apple-touch-icon-57-precomposed.png" rel="apple-touch-icon-precomposed">
    <link href="icon/favicon.png" rel="shortcut icon">
 
+   <!--[if lt IE 9]>
+      <script src="javascript/html5shiv.js"></script>
+      <script src="javascript/respond.min.js"></script>
+   <![endif]-->
 </head>
 
 <body>
+   <!-- Top -->
       <div class="se-pre-con"></div>
    <div class="top">
       <div class="container">
          <div class="row">
             <div class="span8">
                <ul class="contact-info inline pull-left">
-                  <li class="email"><a href="mailto:support@hashinc.in">support@hashinc.in</a></li>
+                  <li class="email"><a href="#">support@hashinc.in</a></li>
                </ul>
-            </div>
-            </div>
-      </div>
+            </div><!-- /.span8 -->
+            </div><!-- /.row -->
+      </div><!-- /.containter -->
    </div>
+
+   <!-- Parallax Fullwidth -->
    <div id="page-slider" class="parallax-bg7 parallax">
       <div class="overlay"></div>
       <header id="header" class="header">
@@ -64,43 +78,47 @@
                   <div class="span2">
                      <div id="logo" class="logo">
                         <a href="./" rel="home">
-                           <img src="images/logo.png" alt="Hashinc />
+                           <img src="images/logo.png" alt="Hash Include" />
                         </a>
-                     </div>
-                  </div>
+                     </div><!-- /.logo -->
+                  </div><!-- /.span2 -->
                   <div class="span10">
-                     <div class="btn-menu"></div>
+                     <div class="btn-menu"></div><!-- //mobile menu button -->
                      <nav id="mainnav" class="mainnav">
                         <ul class="menu">
                            <li><a href="index.php">Home</a>
                            <li><a href="about.php">About Us</a>
                            <li><a href="services.php">Services</a></li>
-                           <li><a href="ourwork.php">Our Work</a></li>
+                           <li><a href="portfolio.php">Our Work</a></li>
                            <li><a href="contact.php">Contact</a></li>
                            <li><a class="active" href="#">YOUR STORE</a></li>
-                        </ul>
+                        </ul><!-- /.menu -->
                      </nav>
-                  </div>
-               </div>
-            </div>
-         </div>
+                  </div><!-- /.span10 -->
+               </div><!-- /.row -->
+            </div><!-- /.container -->
+         </div><!-- /.header-wrap -->
       </header>
    </div>
+
+   <!-- Page Title -->
    <section class="page-title-container">
    	<div class="container page-title">
    		<div class="page-title-wrapper">
 			   <div class="span6 page-title-captions">
 			   	<h1>HashCart</h1>
-			   </div>
+			   </div><!-- /.span6 -->
 			   <div class="span6 breadcrumbs">
 					<ul>
 					<li><a href="index.php">Home </a>/</li>
-					<li><a href="Store.php">Your Store </a>/</li>
+					<li><a href="blog.php">Your Store </a>/</li>
 					</ul>
-			   </div>
+			   </div><!-- /.span6 -->
          </div>
-      </div>
+      </div><!-- /.container -->
    </section>
+
+   <!-- Blog Posts -->
    <section class="section blog-posts" style="background-color: #10101d">
       <div class="container">
          <div class="row">
@@ -111,10 +129,12 @@
      
                </div>
                
-           </div>
-         </div>
-      </div>
+           </div><!-- /.loadmore-btn -->
+         </div><!-- /.posts-wrap -->
+      </div><!-- /.container -->
    </section>
+
+ <!-- Socials -->
    <section class="section social-section" style="padding: 50px 0; background: #d9dff2">
       <div class="container">
          <div class="row">
@@ -154,33 +174,38 @@
                         </div>
                      </a>
                      </div>
-               </div>
-            </div>
-         </div>
-      </div>
+               </div><!-- /.socials-list -->
+            </div><!-- /.span12 -->
+         </div><!-- /.row -->
+      </div><!-- /.container -->
    </section>
+   <!-- Bottom -->
    <div class="bottom">
       <div class="container">
          <div class="row">
             <div class="span12">
                <div class="copyright pull-left">
-                  <span><a href="www.hashinc.in">HashInclude</a></span> &copy 2017 | ALL RIGHTS RESERVED.
+                  <span><a href="www.hashinc.in">HashInclude</a></span> &copy 2016 | ALL RIGHTS RESERVED.
                </div>
                <div class="bottom-links pull-right">
                   <a href="index.php">HOME</a> |
                   <a href="about.php">ABOUT US</a> |
                   <a href="services.php">SERVICES</a> |
-                  <a href="ourwork.php">OUR WORK</a> |
+                  <a href="portfolio.php">OUR WORK</a> |
                   <a href="contact.php">CONTACT</a> |
                   <a href="#">YOUR STORE</a>
                </div>
-            </div>
-         </div>
-      </div>
+            </div><!-- /.span12 -->
+         </div><!-- /.row -->
+      </div><!-- /.container -->
    </div>
+
+   <!-- Go Top -->
    <a class="go-top">
       <i class="icons-angle-up"></i>
    </a>
+   
+   <!-- Javascript -->
    <script type="text/javascript" src="javascript/jquery.min.js"></script>
    <script type="text/javascript" src="javascript/bootstrap.min.js"></script>
    <script type="text/javascript" src="javascript/jquery.easing.js"></script>
@@ -199,6 +224,7 @@
     <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
 	<script>
 		$(window).load(function() {
+		// Animate loader off screen
 		$(".se-pre-con").fadeOut("slow");;
 	});
 	</script>
