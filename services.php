@@ -169,10 +169,10 @@
                      <div class="toggle-title"><span>Graphic Designs</span></div>
                      <div class="toggle-content">
                         <p>We have dedicated and creative graphic designers to cater your needs. We help you to bring your vision to the reality by using the latest software and talented designers. Our graphic designers are known for their ability to listen, ideate, understand and solve complex creative issues with ease. * Brochure / Flyer designs 
-*Logo Design
-* Advertising banners
-* Letter Heads
-* Business cards and much more </p>
+                        *Logo Design
+                        * Advertising banners
+                        * Letter Heads
+                        * Business cards and much more </p>
                      </div>
                   </div>
                   <div class="toggle">
@@ -221,7 +221,7 @@
                         </div>
                      </a>
                      
- <a class="iconwrap" href="https://www.youtube.com/channel/UCWnwjz_S9RTms3K10NdkyTA">
+                        <a class="iconwrap" href="https://www.youtube.com/channel/UCWnwjz_S9RTms3K10NdkyTA">
                         <div class="icon">
                            <div class="iconbg">
                               <i class="icons-youtube"></i>
