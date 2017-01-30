@@ -38,7 +38,7 @@
                <ul class="contact-info inline pull-left">
                   <li class="email"><a href="mailto:support@hashinc.in">support@hashinc.in</a></li>
                   
-               </ul>F
+               </ul>
             </div>
             
          </div>
