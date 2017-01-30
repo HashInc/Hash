@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <head>
    <meta charset="utf-8">
    <title>HashInclude | Remember The Name</title>
@@ -38,7 +38,7 @@
                <ul class="contact-info inline pull-left">
                   <li class="email"><a href="mailto:support@hashinc.in">support@hashinc.in</a></li>
                   
-               </ul>
+               </ul>F
             </div>
             
          </div>
@@ -66,7 +66,7 @@
                            <li><a href="services.php">Services</a></li>
                            <li><a href="ourwork.php">Our Work</a></li>
                            <li><a href="contact.php">Contact</a></li>
-                           <li><a href="store.php">YOUR STORE</a></li>
+                           <li><a href="#">YOUR STORE</a></li>
                         </ul>
                      </nav>
                   </div>
@@ -80,7 +80,6 @@
             <h1 style="font-size:-10px">WELCOME TO HASH INCLUDE.</h1>
             <h1>WE ARE DEVELOPERS.</h1>
             <h1>WE ARE DESIGNERS.</h1>
-            <h1>WE ARE SOCIALITES.</h1>
             <h1>WE ARE MARKETERS.</h1>
          </div>
          <ul class="ideas inline">
@@ -290,7 +289,7 @@
                   <a href="services.php">SERVICES</a> |
                   <a href="ourwork.php">OUR WORK</a> |
                   <a href="contact.php">CONTACT</a> |
-                  <a href="store.php">YOUR STORE</a>
+                  <a href="#">YOUR STORE</a>
                </div>
             </div>
          </div>

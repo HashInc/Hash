@@ -67,7 +67,7 @@
                            <li><a class="active" href="#">Services</a></li>
                            <li><a href="ourwork.php">Our Work</a></li>
                            <li><a href="contact.php">Contact</a></li>
-                           <li><a href="store.php">YOUR STORE</a></li>
+                           <li><a href="#">YOUR STORE</a></li>
                         </ul>
                      </nav>
                   </div>
@@ -255,7 +255,7 @@
                   <a href="#">SERVICES</a> |
                   <a href="ourwork.php">OUR WORK</a> |
                   <a href="contact.php">CONTACT</a> |
-                  <a href="store.php">YOUR STORE</a>
+                  <a href="#">YOUR STORE</a>
                </div>
             </div>
          </div>
