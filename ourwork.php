@@ -113,7 +113,6 @@
             <li class="active"><a data-filter="*" href="#">All</a></li>
             <li><a data-filter=".branding" href="#">Branding</a></li>
             <li><a data-filter=".editorial" href="#">Graphic Designs</a></li>
-            <li><a data-filter=".illustration" href="#">Illustration</a></li>
             <li><a data-filter=".web-design" href="#">Web Design</a></li>
          </ul>
          <div class="project-container" data-portfolio-effect="zoomIn">
@@ -144,28 +143,8 @@
                      <div class="opacity"></div>
                      <div class="detail">
                         <div class="text">
-                           <h3 class="project-title"><a href="portfolio-single.php">Graphic Designs</a></h3>
-                           <p>28 December 2014</p>
-                        </div>
-                        <div class="link">
-                           <div class="icon-bg"></div>
-                           <div class="icon">
-                              <a href="portfolio-single.php"><i class="icons-link"></i></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="item project-item illustration">
-               <div class="item-wrap">
-                  <div class="project-thumb">
-                     <img src="images/portfolio/3.jpg" alt="image">
-                     <div class="opacity"></div>
-                     <div class="detail">
-                        <div class="text">
-                           <h3 class="project-title"><a href="portfolio-single.php">Illustration 03</a></h3>
-                           <p>28 December 2014</p>
+                           <h3 class="project-title">Web Design</h3>
+                           <p>28 July 2016</p>
                         </div>
                         <div class="link">
                            <div class="icon-bg"></div>
@@ -180,12 +159,12 @@
             <div class="item project-item web-design">
                <div class="item-wrap">
                   <div class="project-thumb">
-                     <img src="images/portfolio/4.jpg" alt="image">
+                     <img src="images/portfolio/3.jpg" alt="image">
                      <div class="opacity"></div>
                      <div class="detail">
                         <div class="text">
-                           <h3 class="project-title"><a href="portfolio-single.php">WEB DESIGN 03</a></h3>
-                           <p>28 December 2014</p>
+                           <h3 class="project-title">Graphic Design</h3>
+                           <p>28 July 2016</p>
                         </div>
                         <div class="link">
                            <div class="icon-bg"></div>
@@ -197,130 +176,6 @@
                   </div>
                </div>
             </div>
-            <div class="item project-item illustration">
-               <div class="item-wrap">
-                  <div class="project-thumb">
-                     <img src="images/portfolio/5.jpg" alt="image">
-                     <div class="opacity"></div>
-                     <div class="detail">
-                        <div class="text">
-                           <h3 class="project-title"><a href="portfolio-single.php">Illustration 04</a></h3>
-                           <p>28 December 2014</p>
-                        </div>
-                        <div class="link">
-                           <div class="icon-bg"></div>
-                           <div class="icon">
-                              <a href="portfolio-single.php"><i class="icons-link"></i></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="item project-item editorial branding">
-               <div class="item-wrap">
-                  <div class="project-thumb">
-                     <img src="images/portfolio/6.jpg" alt="image">
-                     <div class="opacity"></div>
-                     <div class="detail">
-                        <div class="text">
-                           <h3 class="project-title"><a href="portfolio-single.php">BRANDING 03</a></h3>
-                           <p>28 December 2014</p>
-                        </div>
-                        <div class="link">
-                           <div class="icon-bg"></div>
-                           <div class="icon">
-                              <a href="portfolio-single.php"><i class="icons-link"></i></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="item project-item illustration web-design">
-               <div class="item-wrap">
-                  <div class="project-thumb">
-                     <img src="images/portfolio/7.jpg" alt="image">
-                     <div class="opacity"></div>
-                     <div class="detail">
-                        <div class="text">
-                           <h3 class="project-title"><a href="portfolio-single.php">BRANDING 03</a></h3>
-                           <p>28 December 2014</p>
-                        </div>
-                        <div class="link">
-                           <div class="icon-bg"></div>
-                           <div class="icon">
-                              <a href="portfolio-single.php"><i class="icons-link"></i></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="item project-item branding">
-               <div class="item-wrap">
-                  <div class="project-thumb">
-                     <img src="images/portfolio/8.jpg" alt="image">
-                     <div class="opacity"></div>
-                     <div class="detail">
-                        <div class="text">
-                           <h3 class="project-title"><a href="portfolio-single.php">BRANDING 03</a></h3>
-                           <p>28 December 2014</p>
-                        </div>
-                        <div class="link">
-                           <div class="icon-bg"></div>
-                           <div class="icon">
-                              <a href="portfolio-single.php"><i class="icons-link"></i></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="item project-item editorial illustration">
-               <div class="item-wrap">
-                  <div class="project-thumb">
-                     <img src="images/portfolio/9.jpg" alt="image">
-                     <div class="opacity"></div>
-                     <div class="detail">
-                        <div class="text">
-                           <h3 class="project-title"><a href="portfolio-single.php">BRANDING 03</a></h3>
-                           <p>28 December 2014</p>
-                        </div>
-                        <div class="link">
-                           <div class="icon-bg"></div>
-                           <div class="icon">
-                              <a href="portfolio-single.php"><i class="icons-link"></i></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="item project-item editorial">
-               <div class="item-wrap">
-                  <div class="project-thumb">
-                     <img src="images/portfolio/10.jpg" alt="image">
-                     <div class="opacity"></div>
-                     <div class="detail">
-                        <div class="text">
-                           <h3 class="project-title"><a href="portfolio-single.php">BRANDING 03</a></h3>
-                           <p>28 December 2014</p>
-                        </div>
-                        <div class="link">
-                           <div class="icon-bg"></div>
-                           <div class="icon">
-                              <a href="portfolio-single.php"><i class="icons-link"></i></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="loadmore-btn">
-            <a href="#" class="btn-Hashinc border-type">LOAD MORE</a>
-         </div>
       </div>
    </section>
 
