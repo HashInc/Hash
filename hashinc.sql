@@ -31,7 +31,6 @@ CREATE TABLE `queries` (
   `Name` varchar(25) NOT NULL,
   `Phone` varchar(15) DEFAULT NULL,
   `Email` varchar(30) NOT NULL,
-  `Subject` varchar(20) DEFAULT NULL,
   `Message` text NOT NULL
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
@@ -39,7 +38,7 @@ CREATE TABLE `queries` (
 -- Dumping data for table `queries`
 --
 
-INSERT INTO `queries` (`id`, `Name`, `Phone`, `Email`, `Subject`, `Message`) VALUES
+INSERT INTO `queries` (`id`, `Name`, `Phone`, `Email`, `Message`) VALUES
 (1, 'jj', 'jj', 'jj@d.com', 'hh', 'hh'),
 (2, 'g', 'ggg', 'ggg@d.com', 'g', 'g'),
 (3, 'g', 'g', 'ggg@d.com', 'g', 'g');
