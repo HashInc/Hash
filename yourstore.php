@@ -25,16 +25,16 @@
    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
    <!-- Bootstrap  -->
-   <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.css" >
+   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" >
 
    <!-- Theme Style -->
-   <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
+   <link rel="stylesheet" type="text/css" href="css/style.css">
 
    <!-- Colors -->
-   <link rel="stylesheet" type="text/css" href="stylesheets/colors/color4.css" id="colors">
+   <link rel="stylesheet" type="text/css" href="css/colors/color4.css" id="colors">
    
    <!-- Animation Style -->
-   <link rel="stylesheet" type="text/css" href="stylesheets/animate.css">
+   <link rel="stylesheet" type="text/css" href="css/animate.css">
 
    <!-- Google Fonts -->
    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,700' rel='stylesheet' type='text/css'>

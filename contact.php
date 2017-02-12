@@ -19,10 +19,10 @@
 }
 </style>
    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-   <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.css" >
-   <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
-   <link rel="stylesheet" type="text/css" href="stylesheets/colors/color4.css" id="colors">
-   <link rel="stylesheet" type="text/css" href="stylesheets/animate.css">
+   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" >
+   <link rel="stylesheet" type="text/css" href="css/style.css">
+   <link rel="stylesheet" type="text/css" href="css/colors/color4.css" id="colors">
+   <link rel="stylesheet" type="text/css" href="css/animate.css">
    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,700' rel='stylesheet' type='text/css'>
    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'>
    <link href="icon/favicon.png" rel="shortcut icon">
