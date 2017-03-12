@@ -120,25 +120,7 @@
                 <div class="clearfix"></div>
               </div><!-- /.team -->
             </div><!-- /.span3 -->
-            <div class="span3">
-              <div class="team Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0.2s" data-animation-offset="75%">
-                <div class="photo">
-                  <div class="overlays">
-                    <img src="images/team/kunal.jpg" alt="image">
-                  </div>
-                </div>
-                <div class="info">
-                  <h5 class="name">Kunal Dhariwal</h5>
-                  <p class="position"> Chief Operating Officer</p>
-                </div>
-                <ul class="socials unstyled">
-                  <li><a href="https://www.facebook.com/kunalcoolboy.hbk"><i class="icons-facebook"></i></a></li>
-                  <li><a href="https://in.linkedin.com/in/kunal-dhariwal-876458b2"><i class="icons-linkedin"></i></a></li>
-                
-                </ul>
-                <div class="clearfix"></div>
-              </div><!-- /.team -->
-            </div><!-- /.span3 -->
+           
             <div class="span3">
               <div class="team Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0.4s" data-animation-offset="75%">
                 <div class="photo">
@@ -148,11 +130,12 @@
                 </div>
                 <div class="info">
                   <h5 class="name">Arihant Jain</h5>
-                  <p class="position"> Chief Communications Officer </p>
+                  <p class="position"> Chief operations Officer </p>
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="https://www.facebook.com/Arihantjain168"><i class="icons-facebook"></i></a></li>
                   <li><a href="https://www.linkedin.com/in/arihant-jain-823b6b121"><i class="icons-linkedin"></i></a></li>
+				  <li><a href="https://twitter.com/arihant_jain168"><i class="icons-twitter"></i></a></li>
                  
                 </ul>
                 <div class="clearfix"></div>
@@ -217,7 +200,7 @@
                 </div>
                 <div class="info">
                   <h5 class="name">Sandesh Solanki</h5>
-                  <p class="position">Designing manager</p>
+                  <p class="position">Design Architect</p>
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="https://www.facebook.com/sandesh.jain.925"><i class="icons-facebook"></i></a></li>

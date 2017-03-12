@@ -96,7 +96,7 @@
                <div class="titlebox">
                   <h2 class="subtitle">About</h2>
                   <h3 class="maintitle">OUR MAIN OBJECTIVE IS</h3>
-                  <h5><p>Our goal is first of all a good idea for the brand. Devise a strategic plan for the entire project. Good design approach in the field. Professional execution of the entire order. We do not like when our client is sad.</p>
+                  <h5><p>Our goal is first of all a good idea for the brand. Devise a strategic plan for the entire project. Good design approach in the field. Professional execution of the project.</p>
                </h5>
                </div>
                <div class="spacer"></div>
@@ -159,10 +159,10 @@
                      <h3 class="maintitle text-color">HashInclude</h3>
                      <h6><p class="text-white">We at HashInclude, always work on the customer needs. 
 					 We work smart to give the best outcome to satisfy our customer needs at a reasonable costing. 
-					 Our team is dedicated to our work and we always try to be parralel with our clients. 
-					 While design is our core-competency, Technology is what keeps giving us quantum leaps and goosebumps. 
+					 Our team is dedicated to our work and we always try to be parallel with our clients. 
+					 While design is our core-competency, Technology is what keeps giving us quantum leaps. 
 					 We are passionate about the future and always will try to make the future today.
-					 We work here with honest and always a fun-loving bunch.</p>
+					 </p>
                     </h6>
                   </div>
                </div>
@@ -207,21 +207,10 @@
                               </div>
                            </div>
                            <div class="text">
-                              <blockquote>write some content here of own. </blockquote>
+                              <blockquote>Our main aim is to help those small organisations who are unable to cope up in online business, We are a team with creative and colorful minds. Whatever is colorful, is beautiful, just like our work. </blockquote>
                            </div>
                         </li>
-                        <li>
-                           <div class="person">
-                              <img src="images/testimonial/kunal.jpg" alt="image">
-                              <div class="info">
-                                 <h3 class="name">Kunal Dhariwal</h3>
-                                 <p class="pos">COO</p>
-                              </div>
-                           </div>
-                           <div class="text">
-                              <blockquote> Our main aim is to help those small organisations who are unable to cope up in online business, We are a team with creative and colorful minds. Whatever is colorful, is beautiful, just like our work. </blockquote>
-                           </div>
-                        </li>
+                        
                      </ul>
                   </div>
                </div>

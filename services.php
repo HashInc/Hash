@@ -112,7 +112,7 @@
                      </div>
                   </div>
                   <h3><a href="#">Web Development</a></h3>
-                  <p>In this digital world everyone wants to multiply or own a business. Since half of world's population have the access the internet as per today. It is important for us to go online for our business. At HashInclude we provide web designing services and products. As per your requirements we analyze your working model and try to give the best out of it. Here at HashInclude we have professional team of people who are well versed in designing and development who can help you for this.</p>
+                  <p>In this digital world everyone wants to multiply or grow a business. Since half of world's population have the access the internet, It is important to go online for our business. At HashInclude we provide web designing services and solutions. As per your requirements we analyze your working model and try to give the best out of it. Here at HashInclude we have professional team of people who are well versed in designing and development.</p>
                </div>
             </div>
             <div class="span3">
